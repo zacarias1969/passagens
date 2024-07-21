@@ -1,0 +1,3491 @@
+[
+  {
+    "city": "Pelotas",
+    "iata": "PET",
+    "airport": "João Simões Lopes Neto International Airport",
+    "country": "Brasil",
+    "general": "Pelotas (PET) João Simões Lopes Neto International Airport / Brasil"
+  },
+  {
+    "city": "Funchal",
+    "iata": "FNC",
+    "airport": "Aeroporto Internacional da Madeira",
+    "country": "Portugal",
+    "general": "Funchal (FNC) Aeroporto Internacional da Madeira / Portugal"
+  },
+  {
+    "city": "London",
+    "iata": "LHR",
+    "airport": "Aeroporto de Londres Heathrow",
+    "country": "Reino Unido",
+    "general": "London (LHR) Aeroporto de Londres Heathrow / Reino Unido"
+  },
+  {
+    "city": "Manaus",
+    "iata": "MAO",
+    "airport": "Eduardo Gomes International Airport",
+    "country": "Brasil",
+    "general": "Manaus (MAO) Eduardo Gomes International Airport / Brasil"
+  },
+  {
+    "city": "Madrid",
+    "iata": "MAD",
+    "airport": "Aeroporto de Madrid-Barajas",
+    "country": "Espanha",
+    "general": "Madrid (MAD) Aeroporto de Madrid-Barajas / Espanha"
+  },
+  {
+    "city": "São Paulo",
+    "iata": "GRU",
+    "airport": "Aeroporto Internacional de Guarulhos",
+    "country": "Brasil",
+    "general": "São Paulo (GRU) Aeroporto Internacional de Guarulhos / Brasil"
+  },
+  {
+    "city": "São Paulo",
+    "iata": "CGH",
+    "airport": "Aeroporto de São Paulo/Congonhas",
+    "country": "Brasil",
+    "general": "São Paulo (CGH) Aeroporto de São Paulo/Congonhas / Brasil"
+  },
+  {
+    "city": "Mexico City",
+    "iata": "MEX",
+    "airport": "Licenciado Benito Juarez International Airport",
+    "country": "México",
+    "general": "Mexico City (MEX) Licenciado Benito Juarez International Airport / México"
+  },
+  {
+    "city": "Amsterdam",
+    "iata": "AMS",
+    "airport": "Amsterdam Airport Schiphol",
+    "country": "Países Baixos",
+    "general": "Amsterdam (AMS) Amsterdam Airport Schiphol / Países Baixos"
+  },
+  {
+    "city": "Frankfurt am Main",
+    "iata": "FRA",
+    "airport": "Aeroporto de Frankfurt",
+    "country": "Alemanha",
+    "general": "Frankfurt am Main (FRA) Aeroporto de Frankfurt / Alemanha"
+  },
+  {
+    "city": "Rio De Janeiro",
+    "iata": "SDU",
+    "airport": "Aeroporto Santos Dumont",
+    "country": "Brasil",
+    "general": "Rio De Janeiro (SDU) Aeroporto Santos Dumont / Brasil"
+  },
+  {
+    "city": "Paris",
+    "iata": "CDG",
+    "airport": "Aeroporto de Paris-Charles de Gaulle",
+    "country": "França",
+    "general": "Paris (CDG) Aeroporto de Paris-Charles de Gaulle / França"
+  },
+  {
+    "city": "Rio De Janeiro",
+    "iata": "GIG",
+    "airport": "Aeroporto Internacional Rio de Janeiro-Galeão",
+    "country": "Brasil",
+    "general": "Rio De Janeiro (GIG) Aeroporto Internacional Rio de Janeiro-Galeão / Brasil"
+  },
+  {
+    "city": "Munich",
+    "iata": "MUC",
+    "airport": "Aeroporto de Munique-Franz Josef Strauss",
+    "country": "Alemanha",
+    "general": "Munich (MUC) Aeroporto de Munique-Franz Josef Strauss / Alemanha"
+  },
+  {
+    "city": "Lisbon",
+    "iata": "LIS",
+    "airport": "Aeroporto Humberto Delgado",
+    "country": "Portugal",
+    "general": "Lisbon (LIS) Aeroporto Humberto Delgado / Portugal"
+  },
+  {
+    "city": "Warsaw",
+    "iata": "WAW",
+    "airport": "Warsaw Chopin Airport",
+    "country": "Polónia",
+    "general": "Warsaw (WAW) Warsaw Chopin Airport / Polónia"
+  },
+  {
+    "city": "Rourkela",
+    "iata": "RRK",
+    "airport": "Rourkela Airport",
+    "country": "Índia",
+    "general": "Rourkela (RRK) Rourkela Airport / Índia"
+  },
+  {
+    "city": "Barcelona",
+    "iata": "BCN",
+    "airport": "Barcelona International Airport",
+    "country": "Espanha",
+    "general": "Barcelona (BCN) Barcelona International Airport / Espanha"
+  },
+  {
+    "city": "Paris",
+    "iata": "ORY",
+    "airport": "Paris-Orly Airport",
+    "country": "França",
+    "general": "Paris (ORY) Paris-Orly Airport / França"
+  },
+  {
+    "city": "Kraków",
+    "iata": "KRK",
+    "airport": "Kraków John Paul II International Airport",
+    "country": "Polónia",
+    "general": "Kraków (KRK) Kraków John Paul II International Airport / Polónia"
+  },
+  {
+    "city": "Lelystad",
+    "iata": "LEY",
+    "airport": "Lelystad Airport",
+    "country": "Países Baixos",
+    "general": "Lelystad (LEY) Lelystad Airport / Países Baixos"
+  },
+  {
+    "city": "Manchester",
+    "iata": "MAN",
+    "airport": "Aeroporto de Manchester",
+    "country": "Reino Unido",
+    "general": "Manchester (MAN) Aeroporto de Manchester / Reino Unido"
+  },
+  {
+    "city": "Hamburg",
+    "iata": "HAM",
+    "airport": "Hamburg Airport",
+    "country": "Alemanha",
+    "general": "Hamburg (HAM) Hamburg Airport / Alemanha"
+  },
+  {
+    "city": "Palma De Mallorca",
+    "iata": "PMI",
+    "airport": "Palma De Mallorca Airport",
+    "country": "Espanha",
+    "general": "Palma De Mallorca (PMI) Palma De Mallorca Airport / Espanha"
+  },
+  {
+    "city": "Zurich",
+    "iata": "ZRH",
+    "airport": "Zürich Airport",
+    "country": "Suíça",
+    "general": "Zurich (ZRH) Zürich Airport / Suíça"
+  },
+  {
+    "city": "New York",
+    "iata": "JFK",
+    "airport": "John F Kennedy International Airport",
+    "country": "Estados Unidos",
+    "general": "New York (JFK) John F Kennedy International Airport / Estados Unidos"
+  },
+  {
+    "city": "Santa Cruz",
+    "iata": "SRZ",
+    "airport": "El Trompillo Airport",
+    "country": "Bolívia",
+    "general": "Santa Cruz (SRZ) El Trompillo Airport / Bolívia"
+  },
+  {
+    "city": "Los Angeles",
+    "iata": "LAX",
+    "airport": "Los Angeles International Airport",
+    "country": "Estados Unidos",
+    "general": "Los Angeles (LAX) Los Angeles International Airport / Estados Unidos"
+  },
+  {
+    "city": "Porto Alegre",
+    "iata": "POA",
+    "airport": "Aeroporto Internacional Salgado Filho",
+    "country": "Brasil",
+    "general": "Porto Alegre (POA) Aeroporto Internacional Salgado Filho / Brasil"
+  },
+  {
+    "city": "London",
+    "iata": "LGW",
+    "airport": "Aeroporto de Londres Gatwick",
+    "country": "Reino Unido",
+    "general": "London (LGW) Aeroporto de Londres Gatwick / Reino Unido"
+  },
+  {
+    "city": "Miami",
+    "iata": "MIA",
+    "airport": "Miami International Airport",
+    "country": "Estados Unidos",
+    "general": "Miami (MIA) Miami International Airport / Estados Unidos"
+  },
+  {
+    "city": "Brussels",
+    "iata": "BRU",
+    "airport": "Aeroporto de Bruxelas",
+    "country": "Bélgica",
+    "general": "Brussels (BRU) Aeroporto de Bruxelas / Bélgica"
+  },
+  {
+    "city": "Budapest",
+    "iata": "BUD",
+    "airport": "Budapest Liszt Ferenc International Airport",
+    "country": "Hungria",
+    "general": "Budapest (BUD) Budapest Liszt Ferenc International Airport / Hungria"
+  },
+  {
+    "city": "Curitiba",
+    "iata": "CWB",
+    "airport": "Afonso Pena Airport",
+    "country": "Brasil",
+    "general": "Curitiba (CWB) Afonso Pena Airport / Brazil"
+  },
+  {
+    "city": "Berlin",
+    "iata": "BER",
+    "airport": "Aeroporto de Berlim-Brandemburgo",
+    "country": "Alemanha",
+    "general": "Berlin (BER) Aeroporto de Berlim-Brandemburgo / Alemanha"
+  },
+  {
+    "city": "Dublin",
+    "iata": "DUB",
+    "airport": "Aeroporto de Dublin",
+    "country": "Irlanda",
+    "general": "Dublin (DUB) Aeroporto de Dublin / Irlanda"
+  },
+  {
+    "city": "Vienna",
+    "iata": "VIE",
+    "airport": "Aeroporto Internacional de Viena",
+    "country": "Áustria",
+    "general": "Vienna (VIE) Aeroporto Internacional de Viena / Áustria"
+  },
+  {
+    "city": "Jakarta",
+    "iata": "CGK",
+    "airport": "Aeroporto Internacional Soekarno-Hatta",
+    "country": "Indonésia",
+    "general": "Jakarta (CGK) Aeroporto Internacional Soekarno-Hatta / Indonésia"
+  },
+  {
+    "city": "Madrid",
+    "iata": "ECV",
+    "airport": "Cuatro Vientos Airport",
+    "country": "Espanha",
+    "general": "Madrid (ECV) Cuatro Vientos Airport / Espanha"
+  },
+  {
+    "city": "Campinas",
+    "iata": "VCP",
+    "airport": "Aeroporto Internacional de Viracopos",
+    "country": "Brasil",
+    "general": "Campinas (VCP) Aeroporto Internacional de Viracopos / Brasil"
+  },
+  {
+    "city": "Rome",
+    "iata": "FCO",
+    "airport": "Aeroporto Internacional de Roma",
+    "country": "Itália",
+    "general": "Rome (FCO) Aeroporto Internacional de Roma / Itália"
+  },
+  {
+    "city": "Buenos Aires",
+    "iata": "AEP",
+    "airport": "Jorge Newbery Airpark",
+    "country": "Argentina",
+    "general": "Buenos Aires (AEP) Jorge Newbery Airpark / Argentina"
+  },
+  {
+    "city": "Denver",
+    "iata": "DEN",
+    "airport": "Denver International Airport",
+    "country": "Estados Unidos",
+    "general": "Denver (DEN) Denver International Airport / Estados Unidos"
+  },
+  {
+    "city": "Buenos Aires",
+    "iata": "EZE",
+    "airport": "Ministro Pistarini International Airport",
+    "country": "Argentina",
+    "general": "Buenos Aires (EZE) Ministro Pistarini International Airport / Argentina"
+  },
+  {
+    "city": "Atlanta",
+    "iata": "ATL",
+    "airport": "Hartsfield-Jackson Atlanta International",
+    "country": "Estados Unidos",
+    "general": "Atlanta (ATL) Hartsfield-Jackson Atlanta International / Estados Unidos"
+  },
+  {
+    "city": "Gdańsk",
+    "iata": "GDN",
+    "airport": "Gdańsk Lech Wałęsa Airport",
+    "country": "Polónia",
+    "general": "Gdańsk (GDN) Gdańsk Lech Wałęsa Airport / Polónia"
+  },
+  {
+    "city": "Chicago",
+    "iata": "ORD",
+    "airport": "Chicago O'hare International Airport",
+    "country": "Estados Unidos",
+    "general": "Chicago (ORD) Chicago O'hare International Airport / Estados Unidos"
+  },
+  {
+    "city": "Rotterdam",
+    "iata": "RTM",
+    "airport": "Rotterdam The Hague Airport",
+    "country": "Países Baixos",
+    "general": "Rotterdam (RTM) Rotterdam The Hague Airport / Países Baixos"
+  },
+  {
+    "city": "Porto",
+    "iata": "OPO",
+    "airport": "Aeroporto Francisco Sá Carneiro Porto",
+    "country": "Portugal",
+    "general": "Porto (OPO) Aeroporto Francisco Sá Carneiro Porto / Portugal"
+  },
+  {
+    "city": "Brasília",
+    "iata": "BSB",
+    "airport": "Brasilia Aeroporto",
+    "country": "Brasil",
+    "general": "Brasília (BSB) Brasilia Aeroporto / Brasil"
+  },
+  {
+    "city": "Dallas-Fort Worth",
+    "iata": "DFW",
+    "airport": "Dallas-Fort Worth International Airport",
+    "country": "Estados Unidos",
+    "general": "Dallas-Fort Worth (DFW) Dallas-Fort Worth International Airport / Estados Unidos"
+  },
+  {
+    "city": "Poznań",
+    "iata": "POZ",
+    "airport": "Poznań-Ławica Airport",
+    "country": "Polónia",
+    "general": "Poznań (POZ) Poznań-Ławica Airport / Polónia"
+  },
+  {
+    "city": "San Francisco",
+    "iata": "SFO",
+    "airport": "San Francisco International Airport",
+    "country": "Estados Unidos",
+    "general": "San Francisco (SFO) San Francisco International Airport / Estados Unidos"
+  },
+  {
+    "city": "Nice",
+    "iata": "NCE",
+    "airport": "Nice-Côte d'Azur Airport",
+    "country": "França",
+    "general": "Nice (NCE) Nice-Côte d'Azur Airport / França"
+  },
+  {
+    "city": "Boston",
+    "iata": "BOS",
+    "airport": "General Edward Lawrence Logan International Airport",
+    "country": "Estados Unidos",
+    "general": "Boston (BOS) General Edward Lawrence Logan International Airport / Estados Unidos"
+  },
+  {
+    "city": "Innsbruck",
+    "iata": "INN",
+    "airport": "Aeroporto de Innsbruck",
+    "country": "Áustria",
+    "general": "Innsbruck (INN) Aeroporto de Innsbruck / Áustria"
+  },
+  {
+    "city": "Düsseldorf",
+    "iata": "DUS",
+    "airport": "Düsseldorf Airport",
+    "country": "Alemanha",
+    "general": "Düsseldorf (DUS) Düsseldorf Airport / Alemanha"
+  },
+  {
+    "city": "Toulouse/Blagnac",
+    "iata": "TLS",
+    "airport": "Toulouse-Blagnac Airport",
+    "country": "França",
+    "general": "Toulouse/Blagnac (TLS) Toulouse-Blagnac Airport / França"
+  },
+  {
+    "city": "Newark",
+    "iata": "EWR",
+    "airport": "Newark Liberty International Airport",
+    "country": "Estados Unidos",
+    "general": "Newark (EWR) Newark Liberty International Airport / Estados Unidos"
+  },
+  {
+    "city": "London",
+    "iata": "STN",
+    "airport": "London Stansted Airport",
+    "country": "Reino Unido",
+    "general": "London (STN) London Stansted Airport / Reino Unido"
+  },
+  {
+    "city": "Seattle",
+    "iata": "SEA",
+    "airport": "Seattle-Tacoma International Airport",
+    "country": "Estados Unidos",
+    "general": "Seattle (SEA) Seattle-Tacoma International Airport / Estados Unidos"
+  },
+  {
+    "city": "San Diego",
+    "iata": "SAN",
+    "airport": "San Diego International Airport",
+    "country": "Estados Unidos",
+    "general": "San Diego (SAN) San Diego International Airport / Estados Unidos"
+  },
+  {
+    "city": "Bogota",
+    "iata": "BOG",
+    "airport": "El Dorado International Airport",
+    "country": "Colômbia",
+    "general": "Bogota (BOG) El Dorado International Airport / Colômbia"
+  },
+  {
+    "city": "Orlando",
+    "iata": "MCO",
+    "airport": "Orlando International Airport",
+    "country": "Estados Unidos",
+    "general": "Orlando (MCO) Orlando International Airport / Estados Unidos"
+  },
+  {
+    "city": "Las Vegas",
+    "iata": "LAS",
+    "airport": "Harry Reid International Airport",
+    "country": "Estados Unidos",
+    "general": "Las Vegas (LAS) Harry Reid International Airport / Estados Unidos"
+  },
+  {
+    "city": "New York",
+    "iata": "LGA",
+    "airport": "La Guardia Airport",
+    "country": "Estados Unidos",
+    "general": "New York (LGA) La Guardia Airport / Estados Unidos"
+  },
+  {
+    "city": "Istanbul",
+    "iata": "IST",
+    "airport": "Istanbul Airport",
+    "country": "Turquia",
+    "general": "Istanbul (IST) Istanbul Airport / Turquia"
+  },
+  {
+    "city": "Austin",
+    "iata": "AUS",
+    "airport": "Austin-Bergstrom International Airport",
+    "country": "Estados Unidos",
+    "general": "Austin (AUS) Austin-Bergstrom International Airport / Estados Unidos"
+  },
+  {
+    "city": "Copenhagen",
+    "iata": "CPH",
+    "airport": "Aeroporto de Copenhaga",
+    "country": "Dinamarca",
+    "general": "Copenhagen (CPH) Aeroporto de Copenhaga / Dinamarca"
+  },
+  {
+    "city": "Vilnius",
+    "iata": "VNO",
+    "airport": "Vilnius International Airport",
+    "country": "Lituânia",
+    "general": "Vilnius (VNO) Vilnius International Airport / Lituânia"
+  },
+  {
+    "city": "Belo Horizonte",
+    "iata": "CNF",
+    "airport": "Aeroporto de Confins",
+    "country": "Brasil",
+    "general": "Belo Horizonte (CNF) Aeroporto de Confins / Brasil"
+  },
+  {
+    "city": "Charlotte",
+    "iata": "CLT",
+    "airport": "Charlotte/Douglas International Airport",
+    "country": "Estados Unidos",
+    "general": "Charlotte (CLT) Charlotte/Douglas International Airport / Estados Unidos"
+  },
+  {
+    "city": "Washington",
+    "iata": "IAD",
+    "airport": "Washington Dulles International Airport",
+    "country": "Estados Unidos",
+    "general": "Washington (IAD) Washington Dulles International Airport / Estados Unidos"
+  },
+  {
+    "city": "Montréal",
+    "iata": "YUL",
+    "airport": "Aeroporto Internacional Pierre Elliott Trudeau",
+    "country": "Canadá",
+    "general": "Montréal (YUL) Aeroporto Internacional Pierre Elliott Trudeau / Canadá"
+  },
+  {
+    "city": "Washington",
+    "iata": "DCA",
+    "airport": "Ronald Reagan Washington National Airport",
+    "country": "Estados Unidos",
+    "general": "Washington (DCA) Ronald Reagan Washington National Airport / Estados Unidos"
+  },
+  {
+    "city": "Anchorage",
+    "iata": "ANC",
+    "airport": "Ted Stevens Anchorage International Airport",
+    "country": "Estados Unidos",
+    "general": "Anchorage (ANC) Ted Stevens Anchorage International Airport / Estados Unidos"
+  },
+  {
+    "city": "Phoenix",
+    "iata": "PHX",
+    "airport": "Phoenix Sky Harbor International Airport",
+    "country": "Estados Unidos",
+    "general": "Phoenix (PHX) Phoenix Sky Harbor International Airport / Estados Unidos"
+  },
+  {
+    "city": "Long Beach",
+    "iata": "LGB",
+    "airport": "Long Beach (Daugherty Field)",
+    "country": "Estados Unidos",
+    "general": "Long Beach (LGB) Long Beach (Daugherty Field) / Estados Unidos"
+  },
+  {
+    "city": "Santa Ana",
+    "iata": "SNA",
+    "airport": "John Wayne/Orange County Airport",
+    "country": "Estados Unidos",
+    "general": "Santa Ana (SNA) John Wayne/Orange County Airport / Estados Unidos"
+  },
+  {
+    "city": "Houston",
+    "iata": "IAH",
+    "airport": "George Bush Intercontinental/Houston Airport",
+    "country": "Estados Unidos",
+    "general": "Houston (IAH) George Bush Intercontinental/Houston Airport / Estados Unidos"
+  },
+  {
+    "city": "Raleigh/Durham",
+    "iata": "RDU",
+    "airport": "Raleigh-Durham International Airport",
+    "country": "Estados Unidos",
+    "general": "Raleigh/Durham (RDU) Raleigh-Durham International Airport / Estados Unidos"
+  },
+  {
+    "city": "Salt Lake City",
+    "iata": "SLC",
+    "airport": "Salt Lake City International Airport",
+    "country": "Estados Unidos",
+    "general": "Salt Lake City (SLC) Salt Lake City International Airport / Estados Unidos"
+  },
+  {
+    "city": "Indianapolis",
+    "iata": "IND",
+    "airport": "Indianapolis International Airport",
+    "country": "Estados Unidos",
+    "general": "Indianapolis (IND) Indianapolis International Airport / Estados Unidos"
+  },
+  {
+    "city": "Geneva",
+    "iata": "GVA",
+    "airport": "Geneva Cointrin International Airport",
+    "country": "Suíça",
+    "general": "Geneva (GVA) Geneva Cointrin International Airport / Suíça"
+  },
+  {
+    "city": "Nantes",
+    "iata": "NTE",
+    "airport": "Nantes Atlantique Airport",
+    "country": "França",
+    "general": "Nantes (NTE) Nantes Atlantique Airport / França"
+  },
+  {
+    "city": "Fort Lauderdale",
+    "iata": "FLL",
+    "airport": "Fort Lauderdale/Hollywood International Airport",
+    "country": "Estados Unidos",
+    "general": "Fort Lauderdale (FLL) Fort Lauderdale/Hollywood International Airport / Estados Unidos"
+  },
+  {
+    "city": "Philadelphia",
+    "iata": "PHL",
+    "airport": "Philadelphia International Airport",
+    "country": "Estados Unidos",
+    "general": "Philadelphia (PHL) Philadelphia International Airport / Estados Unidos"
+  },
+  {
+    "city": "Stuttgart",
+    "iata": "STR",
+    "airport": "Stuttgart Airport",
+    "country": "Alemanha",
+    "general": "Stuttgart (STR) Stuttgart Airport / Alemanha"
+  },
+  {
+    "city": "Guatemala City",
+    "iata": "GUA",
+    "airport": "La Aurora Airport",
+    "country": "Guatemala",
+    "general": "Guatemala City (GUA) La Aurora Airport / Guatemala"
+  },
+  {
+    "city": "Honolulu",
+    "iata": "HNL",
+    "airport": "Daniel K Inouye International Airport",
+    "country": "Estados Unidos",
+    "general": "Honolulu (HNL) Daniel K Inouye International Airport / Estados Unidos"
+  },
+  {
+    "city": "Montevideo",
+    "iata": "MVD",
+    "airport": "Aeroporto Internacional de Carrasco",
+    "country": "Uruguai",
+    "general": "Montevideo (MVD) Aeroporto Internacional de Carrasco / Uruguai"
+  },
+  {
+    "city": "Minneapolis",
+    "iata": "MSP",
+    "airport": "Minneapolis-St. Paul International/Wold-Chamberlain Airport",
+    "country": "Estados Unidos",
+    "general": "Minneapolis (MSP) Minneapolis-St. Paul International/Wold-Chamberlain Airport / Estados Unidos"
+  },
+  {
+    "city": "Seattle",
+    "iata": "BFI",
+    "airport": "Boeing Field/King County International",
+    "country": "Estados Unidos",
+    "general": "Seattle (BFI) Boeing Field/King County International / Estados Unidos"
+  },
+  {
+    "city": "Leeds",
+    "iata": "LBA",
+    "airport": "Aeroporto Internacional de Leeds Bradford",
+    "country": "Reino Unido",
+    "general": "Leeds (LBA) Aeroporto Internacional de Leeds Bradford / Reino Unido"
+  },
+  {
+    "city": "Cologne",
+    "iata": "CGN",
+    "airport": "Aeroporto de Colônia-Bonn",
+    "country": "Alemanha",
+    "general": "Cologne (CGN) Aeroporto de Colônia-Bonn / Alemanha"
+  },
+  {
+    "city": "Chicago",
+    "iata": "MDW",
+    "airport": "Chicago Midway International Airport",
+    "country": "Estados Unidos",
+    "general": "Chicago (MDW) Chicago Midway International Airport / Estados Unidos"
+  },
+  {
+    "city": "Bilbao",
+    "iata": "BIO",
+    "airport": "Bilbao Airport",
+    "country": "Espanha",
+    "general": "Bilbao (BIO) Bilbao Airport / Espanha"
+  },
+  {
+    "city": "Greensboro",
+    "iata": "GSO",
+    "airport": "Piedmont Triad International Airport",
+    "country": "Estados Unidos",
+    "general": "Greensboro (GSO) Piedmont Triad International Airport / Estados Unidos"
+  },
+  {
+    "city": "Detroit",
+    "iata": "DTW",
+    "airport": "Detroit Metro Wayne County Airport",
+    "country": "Estados Unidos",
+    "general": "Detroit (DTW) Detroit Metro Wayne County Airport / Estados Unidos"
+  },
+  {
+    "city": "Portland",
+    "iata": "PDX",
+    "airport": "Portland International Airport",
+    "country": "Estados Unidos",
+    "general": "Portland (PDX) Portland International Airport / Estados Unidos"
+  },
+  {
+    "city": "St Louis",
+    "iata": "STL",
+    "airport": "St. Louis Lambert International Airport",
+    "country": "Estados Unidos",
+    "general": "St Louis (STL) St. Louis Lambert International Airport / Estados Unidos"
+  },
+  {
+    "city": "Buffalo",
+    "iata": "BUF",
+    "airport": "Buffalo Niagara International Airport",
+    "country": "Estados Unidos",
+    "general": "Buffalo (BUF) Buffalo Niagara International Airport / Estados Unidos"
+  },
+  {
+    "city": "Colorado Springs",
+    "iata": "COS",
+    "airport": "City Of Colorado Springs Municipal Airport",
+    "country": "Estados Unidos",
+    "general": "Colorado Springs (COS) City Of Colorado Springs Municipal Airport / Estados Unidos"
+  },
+  {
+    "city": "Memphis",
+    "iata": "MEM",
+    "airport": "Memphis International Airport",
+    "country": "Estados Unidos",
+    "general": "Memphis (MEM) Memphis International Airport / Estados Unidos"
+  },
+  {
+    "city": "Bordeaux/Mérignac",
+    "iata": "BOD",
+    "airport": "Bordeaux-Mérignac Airport",
+    "country": "França",
+    "general": "Bordeaux/Mérignac (BOD) Bordeaux-Mérignac Airport / França"
+  },
+  {
+    "city": "Milan",
+    "iata": "MXP",
+    "airport": "Malpensa International Airport",
+    "country": "Itália",
+    "general": "Milan (MXP) Malpensa International Airport / Itália"
+  },
+  {
+    "city": "Nashville",
+    "iata": "BNA",
+    "airport": "Nashville International Airport",
+    "country": "Estados Unidos",
+    "general": "Nashville (BNA) Nashville International Airport / Estados Unidos"
+  },
+  {
+    "city": "Charleston",
+    "iata": "CHS",
+    "airport": "Charleston Air Force Base/International",
+    "country": "Estados Unidos",
+    "general": "Charleston (CHS) Charleston Air Force Base/International / Estados Unidos"
+  },
+  {
+    "city": "Tampa",
+    "iata": "TPA",
+    "airport": "Tampa International Airport",
+    "country": "Estados Unidos",
+    "general": "Tampa (TPA) Tampa International Airport / Estados Unidos"
+  },
+  {
+    "city": "Oslo",
+    "iata": "OSL",
+    "airport": "Oslo Airport, Gardermoen",
+    "country": "Noruega",
+    "general": "Oslo (OSL) Oslo Airport, Gardermoen / Noruega"
+  },
+  {
+    "city": "Des Moines",
+    "iata": "DSM",
+    "airport": "Des Moines International Airport",
+    "country": "Estados Unidos",
+    "general": "Des Moines (DSM) Des Moines International Airport / Estados Unidos"
+  },
+  {
+    "city": "Orlando",
+    "iata": "SFB",
+    "airport": "Orlando Sanford International Airport",
+    "country": "Estados Unidos",
+    "general": "Orlando (SFB) Orlando Sanford International Airport / Estados Unidos"
+  },
+  {
+    "city": "San Antonio",
+    "iata": "SAT",
+    "airport": "San Antonio International Airport",
+    "country": "Estados Unidos",
+    "general": "San Antonio (SAT) San Antonio International Airport / Estados Unidos"
+  },
+  {
+    "city": "Baltimore",
+    "iata": "BWI",
+    "airport": "Baltimore/Washington International Thurgood Marshall Airport",
+    "country": "Estados Unidos",
+    "general": "Baltimore (BWI) Baltimore/Washington International Thurgood Marshall Airport / Estados Unidos"
+  },
+  {
+    "city": "Rochester",
+    "iata": "ROC",
+    "airport": "Frederick Douglass/Greater Rochester International Airport",
+    "country": "Estados Unidos",
+    "general": "Rochester (ROC) Frederick Douglass/Greater Rochester International Airport / Estados Unidos"
+  },
+  {
+    "city": "Albuquerque",
+    "iata": "ABQ",
+    "airport": "Albuquerque International Sunport Airport",
+    "country": "Estados Unidos",
+    "general": "Albuquerque (ABQ) Albuquerque International Sunport Airport / Estados Unidos"
+  },
+  {
+    "city": "Jacksonville",
+    "iata": "JAX",
+    "airport": "Jacksonville International Airport",
+    "country": "Estados Unidos",
+    "general": "Jacksonville (JAX) Jacksonville International Airport / Estados Unidos"
+  },
+  {
+    "city": "Torino",
+    "iata": "TRN",
+    "airport": "Turin Airport",
+    "country": "Itália",
+    "general": "Torino (TRN) Turin Airport / Itália"
+  },
+  {
+    "city": "Fort Worth",
+    "iata": "AFW",
+    "airport": "Perot Field/Fort Worth Alliance",
+    "country": "Estados Unidos",
+    "general": "Fort Worth (AFW) Perot Field/Fort Worth Alliance / Estados Unidos"
+  },
+  {
+    "city": "Richmond",
+    "iata": "RIC",
+    "airport": "Richmond International Airport",
+    "country": "Estados Unidos",
+    "general": "Richmond (RIC) Richmond International Airport / Estados Unidos"
+  },
+  {
+    "city": "Bozeman",
+    "iata": "BZN",
+    "airport": "Bozeman Yellowstone International Airport",
+    "country": "Estados Unidos",
+    "general": "Bozeman (BZN) Bozeman Yellowstone International Airport / Estados Unidos"
+  },
+  {
+    "city": "Dallas",
+    "iata": "DAL",
+    "airport": "Dallas Love Field",
+    "country": "Estados Unidos",
+    "general": "Dallas (DAL) Dallas Love Field / Estados Unidos"
+  },
+  {
+    "city": "New Orleans",
+    "iata": "MSY",
+    "airport": "Louis Armstrong New Orleans International Airport",
+    "country": "Estados Unidos",
+    "general": "New Orleans (MSY) Louis Armstrong New Orleans International Airport / Estados Unidos"
+  },
+  {
+    "city": "San Juan",
+    "iata": "SJU",
+    "airport": "Luis Munoz Marin International Airport",
+    "country": "Estados Unidos",
+    "general": "San Juan (SJU) Luis Munoz Marin International Airport / Estados Unidos"
+  },
+  {
+    "city": "Fairbanks",
+    "iata": "FAI",
+    "airport": "Fairbanks International Airport",
+    "country": "Estados Unidos",
+    "general": "Fairbanks (FAI) Fairbanks International Airport / Estados Unidos"
+  },
+  {
+    "city": "Pensacola",
+    "iata": "PNS",
+    "airport": "Pensacola International Airport",
+    "country": "Estados Unidos",
+    "general": "Pensacola (PNS) Pensacola International Airport / Estados Unidos"
+  },
+  {
+    "city": "Oklahoma City",
+    "iata": "OKC",
+    "airport": "Will Rogers World Airport",
+    "country": "Estados Unidos",
+    "general": "Oklahoma City (OKC) Will Rogers World Airport / Estados Unidos"
+  },
+  {
+    "city": "Chicago/Rockford",
+    "iata": "RFD",
+    "airport": "Chicago/Rockford International Airport",
+    "country": "Estados Unidos",
+    "general": "Chicago/Rockford (RFD) Chicago/Rockford International Airport / Estados Unidos"
+  },
+  {
+    "city": "Sarasota/Bradenton",
+    "iata": "SRQ",
+    "airport": "Sarasota/Bradenton International Airport",
+    "country": "Estados Unidos",
+    "general": "Sarasota/Bradenton (SRQ) Sarasota/Bradenton International Airport / Estados Unidos"
+  },
+  {
+    "city": "Savannah",
+    "iata": "SAV",
+    "airport": "Savannah/Hilton Head International Airport",
+    "country": "Estados Unidos",
+    "general": "Savannah (SAV) Savannah/Hilton Head International Airport / Estados Unidos"
+  },
+  {
+    "city": "Pittsburgh",
+    "iata": "PIT",
+    "airport": "Pittsburgh International Airport",
+    "country": "Estados Unidos",
+    "general": "Pittsburgh (PIT) Pittsburgh International Airport / Estados Unidos"
+  },
+  {
+    "city": "Norfolk",
+    "iata": "ORF",
+    "airport": "Norfolk International Airport",
+    "country": "Estados Unidos",
+    "general": "Norfolk (ORF) Norfolk International Airport / Estados Unidos"
+  },
+  {
+    "city": "Covington",
+    "iata": "CVG",
+    "airport": "Cincinnati/Northern Kentucky International Airport",
+    "country": "Estados Unidos",
+    "general": "Covington (CVG) Cincinnati/Northern Kentucky International Airport / Estados Unidos"
+  },
+  {
+    "city": "Harrisburg",
+    "iata": "MDT",
+    "airport": "Harrisburg International Airport",
+    "country": "Estados Unidos",
+    "general": "Harrisburg (MDT) Harrisburg International Airport / Estados Unidos"
+  },
+  {
+    "city": "Louisville",
+    "iata": "SDF",
+    "airport": "Louisville Muhammad Ali International Airport",
+    "country": "Estados Unidos",
+    "general": "Louisville (SDF) Louisville Muhammad Ali International Airport / Estados Unidos"
+  },
+  {
+    "city": "Boise",
+    "iata": "BOI",
+    "airport": "Boise Air Terminal/Gowen Field",
+    "country": "Estados Unidos",
+    "general": "Boise (BOI) Boise Air Terminal/Gowen Field / Estados Unidos"
+  },
+  {
+    "city": "Marseille",
+    "iata": "MRS",
+    "airport": "Aeroporto de Marseille-Provence",
+    "country": "França",
+    "general": "Marseille (MRS) Aeroporto de Marseille-Provence / França"
+  },
+  {
+    "city": "Milwaukee",
+    "iata": "MKE",
+    "airport": "General Mitchell International Airport",
+    "country": "Estados Unidos",
+    "general": "Milwaukee (MKE) General Mitchell International Airport / Estados Unidos"
+  },
+  {
+    "city": "Ontario",
+    "iata": "ONT",
+    "airport": "Ontario International Airport",
+    "country": "Estados Unidos",
+    "general": "Ontario (ONT) Ontario International Airport / Estados Unidos"
+  },
+  {
+    "city": "Kahului",
+    "iata": "OGG",
+    "airport": "Kahului Airport",
+    "country": "Estados Unidos",
+    "general": "Kahului (OGG) Kahului Airport / Estados Unidos"
+  },
+  {
+    "city": "Tallahassee",
+    "iata": "TLH",
+    "airport": "Tallahassee International Airport",
+    "country": "Estados Unidos",
+    "general": "Tallahassee (TLH) Tallahassee International Airport / Estados Unidos"
+  },
+  {
+    "city": "Kansas City",
+    "iata": "MCI",
+    "airport": "Kansas City International Airport",
+    "country": "Estados Unidos",
+    "general": "Kansas City (MCI) Kansas City International Airport / Estados Unidos"
+  },
+  {
+    "city": "Knoxville",
+    "iata": "TYS",
+    "airport": "McGhee Tyson Airport",
+    "country": "Estados Unidos",
+    "general": "Knoxville (TYS) McGhee Tyson Airport / Estados Unidos"
+  },
+  {
+    "city": "Grand Rapids",
+    "iata": "GRR",
+    "airport": "Gerald R Ford International Airport",
+    "country": "Estados Unidos",
+    "general": "Grand Rapids (GRR) Gerald R Ford International Airport / Estados Unidos"
+  },
+  {
+    "city": "Rochester",
+    "iata": "RST",
+    "airport": "Rochester International Airport",
+    "country": "Estados Unidos",
+    "general": "Rochester (RST) Rochester International Airport / Estados Unidos"
+  },
+  {
+    "city": "Valparaiso/Destin-Ft Walton Beach",
+    "iata": "VPS",
+    "airport": "Eglin Air Force Base/Destin-Fort Walton Beach",
+    "country": "Estados Unidos",
+    "general": "Valparaiso/Destin-Ft Walton Beach (VPS) Eglin Air Force Base/Destin-Fort Walton Beach / Estados Unidos"
+  },
+  {
+    "city": "Asheville",
+    "iata": "AVL",
+    "airport": "Asheville Regional Airport",
+    "country": "Estados Unidos",
+    "general": "Asheville (AVL) Asheville Regional Airport / Estados Unidos"
+  },
+  {
+    "city": "West Palm Beach",
+    "iata": "PBI",
+    "airport": "Palm Beach International Airport",
+    "country": "Estados Unidos",
+    "general": "West Palm Beach (PBI) Palm Beach International Airport / Estados Unidos"
+  },
+  {
+    "city": "Key West",
+    "iata": "EYW",
+    "airport": "Key West International Airport",
+    "country": "Estados Unidos",
+    "general": "Key West (EYW) Key West International Airport / Estados Unidos"
+  },
+  {
+    "city": "Cedar Rapids",
+    "iata": "CID",
+    "airport": "The Eastern Iowa Airport",
+    "country": "Estados Unidos",
+    "general": "Cedar Rapids (CID) The Eastern Iowa Airport / Estados Unidos"
+  },
+  {
+    "city": "Sacramento",
+    "iata": "SMF",
+    "airport": "Sacramento International Airport",
+    "country": "Estados Unidos",
+    "general": "Sacramento (SMF) Sacramento International Airport / Estados Unidos"
+  },
+  {
+    "city": "Burbank",
+    "iata": "BUR",
+    "airport": "Bob Hope Airport",
+    "country": "Estados Unidos",
+    "general": "Burbank (BUR) Bob Hope Airport / Estados Unidos"
+  },
+  {
+    "city": "Fort Myers",
+    "iata": "RSW",
+    "airport": "Southwest Florida International Airport",
+    "country": "Estados Unidos",
+    "general": "Fort Myers (RSW) Southwest Florida International Airport / Estados Unidos"
+  },
+  {
+    "city": "Columbia",
+    "iata": "CAE",
+    "airport": "Columbia Metro Airport",
+    "country": "Estados Unidos",
+    "general": "Columbia (CAE) Columbia Metro Airport / Estados Unidos"
+  },
+  {
+    "city": "Omaha",
+    "iata": "OMA",
+    "airport": "Eppley Airfield",
+    "country": "Estados Unidos",
+    "general": "Omaha (OMA) Eppley Airfield / Estados Unidos"
+  },
+  {
+    "city": "Santa Cruz",
+    "iata": "VVI",
+    "airport": "Aeroporto Internacional Viru Viru",
+    "country": "Bolívia",
+    "general": "Santa Cruz (VVI) Aeroporto Internacional Viru Viru / Bolívia"
+  },
+  {
+    "city": "Redmond",
+    "iata": "RDM",
+    "airport": "Roberts Field",
+    "country": "Estados Unidos",
+    "general": "Redmond (RDM) Roberts Field / Estados Unidos"
+  },
+  {
+    "city": "Tucson",
+    "iata": "TUS",
+    "airport": "Tucson International Airport",
+    "country": "Estados Unidos",
+    "general": "Tucson (TUS) Tucson International Airport / Estados Unidos"
+  },
+  {
+    "city": "Billings",
+    "iata": "BIL",
+    "airport": "Billings Logan International Airport",
+    "country": "Estados Unidos",
+    "general": "Billings (BIL) Billings Logan International Airport / Estados Unidos"
+  },
+  {
+    "city": "Spokane",
+    "iata": "GEG",
+    "airport": "Spokane International Airport",
+    "country": "Estados Unidos",
+    "general": "Spokane (GEG) Spokane International Airport / Estados Unidos"
+  },
+  {
+    "city": "Houston",
+    "iata": "HOU",
+    "airport": "William P Hobby Airport",
+    "country": "Estados Unidos",
+    "general": "Houston (HOU) William P Hobby Airport / Estados Unidos"
+  },
+  {
+    "city": "Münster",
+    "iata": "FMO",
+    "airport": "Münster Osnabrück Airport",
+    "country": "Alemanha",
+    "general": "Münster (FMO) Münster Osnabrück Airport / Alemanha"
+  },
+  {
+    "city": "Oakland",
+    "iata": "OAK",
+    "airport": "Metro Oakland International Airport",
+    "country": "Estados Unidos",
+    "general": "Oakland (OAK) Metro Oakland International Airport / Estados Unidos"
+  },
+  {
+    "city": "Madison",
+    "iata": "MSN",
+    "airport": "Dane County Regional/Truax Field",
+    "country": "Estados Unidos",
+    "general": "Madison (MSN) Dane County Regional/Truax Field / Estados Unidos"
+  },
+  {
+    "city": "Albany",
+    "iata": "ALB",
+    "airport": "Albany International Airport",
+    "country": "Estados Unidos",
+    "general": "Albany (ALB) Albany International Airport / Estados Unidos"
+  },
+  {
+    "city": "Manchester",
+    "iata": "MHT",
+    "airport": "Manchester Boston Regional Airport",
+    "country": "Estados Unidos",
+    "general": "Manchester (MHT) Manchester Boston Regional Airport / Estados Unidos"
+  },
+  {
+    "city": "Cleveland",
+    "iata": "CLE",
+    "airport": "Cleveland-Hopkins International Airport",
+    "country": "Estados Unidos",
+    "general": "Cleveland (CLE) Cleveland-Hopkins International Airport / Estados Unidos"
+  },
+  {
+    "city": "Palm Springs",
+    "iata": "PSP",
+    "airport": "Palm Springs International Airport",
+    "country": "Estados Unidos",
+    "general": "Palm Springs (PSP) Palm Springs International Airport / Estados Unidos"
+  },
+  {
+    "city": "Syracuse",
+    "iata": "SYR",
+    "airport": "Syracuse Hancock International Airport",
+    "country": "Estados Unidos",
+    "general": "Syracuse (SYR) Syracuse Hancock International Airport / Estados Unidos"
+  },
+  {
+    "city": "Phoenix",
+    "iata": "AZA",
+    "airport": "Phoenix-Mesa Gateway Airport",
+    "country": "Estados Unidos",
+    "general": "Phoenix (AZA) Phoenix-Mesa Gateway Airport / Estados Unidos"
+  },
+  {
+    "city": "Providence",
+    "iata": "PVD",
+    "airport": "Rhode Island TF Green International Airport",
+    "country": "Estados Unidos",
+    "general": "Providence (PVD) Rhode Island TF Green International Airport / Estados Unidos"
+  },
+  {
+    "city": "San Jose",
+    "iata": "SJC",
+    "airport": "Norman Y Mineta San Jose International Airport",
+    "country": "Estados Unidos",
+    "general": "San Jose (SJC) Norman Y Mineta San Jose International Airport / Estados Unidos"
+  },
+  {
+    "city": "Athens",
+    "iata": "ATH",
+    "airport": "Eleftherios Venizelos International Airport",
+    "country": "Grécia",
+    "general": "Athens (ATH) Eleftherios Venizelos International Airport / Grécia"
+  },
+  {
+    "city": "São Paulo",
+    "iata": "RTE",
+    "airport": "Aeroporto Campo de Marte",
+    "country": "Brasil",
+    "general": "São Paulo (RTE) Aeroporto Campo de Marte / Brasil"
+  },
+  {
+    "city": "Windsor Locks",
+    "iata": "BDL",
+    "airport": "Bradley International Airport",
+    "country": "Estados Unidos",
+    "general": "Windsor Locks (BDL) Bradley International Airport / Estados Unidos"
+  },
+  {
+    "city": "Myrtle Beach",
+    "iata": "MYR",
+    "airport": "Myrtle Beach International Airport",
+    "country": "Estados Unidos",
+    "general": "Myrtle Beach (MYR) Myrtle Beach International Airport / Estados Unidos"
+  },
+  {
+    "city": "Columbus",
+    "iata": "CMH",
+    "airport": "John Glenn Columbus International Airport",
+    "country": "Estados Unidos",
+    "general": "Columbus (CMH) John Glenn Columbus International Airport / Estados Unidos"
+  },
+  {
+    "city": "Tulsa",
+    "iata": "TUL",
+    "airport": "Tulsa International Airport",
+    "country": "Estados Unidos",
+    "general": "Tulsa (TUL) Tulsa International Airport / Estados Unidos"
+  },
+  {
+    "city": "Punta Gorda",
+    "iata": "PGD",
+    "airport": "Punta Gorda Airport",
+    "country": "Estados Unidos",
+    "general": "Punta Gorda (PGD) Punta Gorda Airport / Estados Unidos"
+  },
+  {
+    "city": "Little Rock",
+    "iata": "LIT",
+    "airport": "Bill And Hillary Clinton National/Adams Field",
+    "country": "Estados Unidos",
+    "general": "Little Rock (LIT) Bill And Hillary Clinton National/Adams Field / Estados Unidos"
+  },
+  {
+    "city": "Medford",
+    "iata": "MFR",
+    "airport": "Rogue Valley International-Medford Airport",
+    "country": "Estados Unidos",
+    "general": "Medford (MFR) Rogue Valley International-Medford Airport / Estados Unidos"
+  },
+  {
+    "city": "Lihue",
+    "iata": "LIH",
+    "airport": "Lihue Airport",
+    "country": "Estados Unidos",
+    "general": "Lihue (LIH) Lihue Airport / Estados Unidos"
+  },
+  {
+    "city": "Midland",
+    "iata": "MAF",
+    "airport": "Midland International Air And Space Port Airport",
+    "country": "Estados Unidos",
+    "general": "Midland (MAF) Midland International Air And Space Port Airport / Estados Unidos"
+  },
+  {
+    "city": "Wichita",
+    "iata": "ICT",
+    "airport": "Wichita Dwight D Eisenhower National Airport",
+    "country": "Estados Unidos",
+    "general": "Wichita (ICT) Wichita Dwight D Eisenhower National Airport / Estados Unidos"
+  },
+  {
+    "city": "Wilmington",
+    "iata": "ILM",
+    "airport": "Wilmington International Airport",
+    "country": "Estados Unidos",
+    "general": "Wilmington (ILM) Wilmington International Airport / Estados Unidos"
+  },
+  {
+    "city": "Yuma",
+    "iata": "YUM",
+    "airport": "Yuma Marine Corps Air Station/Yuma International",
+    "country": "Estados Unidos",
+    "general": "Yuma (YUM) Yuma Marine Corps Air Station/Yuma International / Estados Unidos"
+  },
+  {
+    "city": "St Petersburg-Clearwater",
+    "iata": "PIE",
+    "airport": "St. Pete-Clearwater International Airport",
+    "country": "Estados Unidos",
+    "general": "St Petersburg-Clearwater (PIE) St. Pete-Clearwater International Airport / Estados Unidos"
+  },
+  {
+    "city": "Fresno",
+    "iata": "FAT",
+    "airport": "Fresno Yosemite International Airport",
+    "country": "Estados Unidos",
+    "general": "Fresno (FAT) Fresno Yosemite International Airport / Estados Unidos"
+  },
+  {
+    "city": "Lubbock",
+    "iata": "LBB",
+    "airport": "Lubbock Preston Smith International Airport",
+    "country": "Estados Unidos",
+    "general": "Lubbock (LBB) Lubbock Preston Smith International Airport / Estados Unidos"
+  },
+  {
+    "city": "Fargo",
+    "iata": "FAR",
+    "airport": "Hector International Airport",
+    "country": "Estados Unidos",
+    "general": "Fargo (FAR) Hector International Airport / Estados Unidos"
+  },
+  {
+    "city": "Sioux Falls",
+    "iata": "FSD",
+    "airport": "Joe Foss Field",
+    "country": "Estados Unidos",
+    "general": "Sioux Falls (FSD) Joe Foss Field / Estados Unidos"
+  },
+  {
+    "city": "Jackson",
+    "iata": "JAC",
+    "airport": "Jackson Hole Airport",
+    "country": "Estados Unidos",
+    "general": "Jackson (JAC) Jackson Hole Airport / Estados Unidos"
+  },
+  {
+    "city": "Cascais",
+    "iata": "CAT",
+    "airport": "Aeródromo Municipal de Cascais",
+    "country": "Portugal",
+    "general": "Cascais (CAT) Aeródromo Municipal de Cascais / Portugal"
+  },
+  {
+    "city": "Kailua/Kona",
+    "iata": "KOA",
+    "airport": "Ellison Onizuka Kona International At Keahole Airport",
+    "country": "Estados Unidos",
+    "general": "Kailua/Kona (KOA) Ellison Onizuka Kona International At Keahole Airport / Estados Unidos"
+  },
+  {
+    "city": "Reno",
+    "iata": "RNO",
+    "airport": "Reno/Tahoe International Airport",
+    "country": "Estados Unidos",
+    "general": "Reno (RNO) Reno/Tahoe International Airport / Estados Unidos"
+  },
+  {
+    "city": "Springfield",
+    "iata": "SGF",
+    "airport": "Springfield-Branson National",
+    "country": "Estados Unidos",
+    "general": "Springfield (SGF) Springfield-Branson National / Estados Unidos"
+  },
+  {
+    "city": "Birmingham",
+    "iata": "BHM",
+    "airport": "Birmingham-Shuttlesworth International Airport",
+    "country": "Estados Unidos",
+    "general": "Birmingham (BHM) Birmingham-Shuttlesworth International Airport / Estados Unidos"
+  },
+  {
+    "city": "Hilo",
+    "iata": "ITO",
+    "airport": "Hilo International Airport",
+    "country": "Estados Unidos",
+    "general": "Hilo (ITO) Hilo International Airport / Estados Unidos"
+  },
+  {
+    "city": "Fayetteville/Springdale/Rogers",
+    "iata": "XNA",
+    "airport": "Northwest Arkansas National Airport",
+    "country": "Estados Unidos",
+    "general": "Fayetteville/Springdale/Rogers (XNA) Northwest Arkansas National Airport / Estados Unidos"
+  },
+  {
+    "city": "Dayton",
+    "iata": "DAY",
+    "airport": "James M Cox Dayton International Airport",
+    "country": "Estados Unidos",
+    "general": "Dayton (DAY) James M Cox Dayton International Airport / Estados Unidos"
+  },
+  {
+    "city": "Huntsville",
+    "iata": "HSV",
+    "airport": "Huntsville International-Carl T Jones Field",
+    "country": "Estados Unidos",
+    "general": "Huntsville (HSV) Huntsville International-Carl T Jones Field / Estados Unidos"
+  },
+  {
+    "city": "Venice",
+    "iata": "VCE",
+    "airport": "Venice Marco Polo Airport",
+    "country": "Itália",
+    "general": "Venice (VCE) Venice Marco Polo Airport / Itália"
+  },
+  {
+    "city": "Greer",
+    "iata": "GSP",
+    "airport": "Greenville Spartanburg International Airport",
+    "country": "Estados Unidos",
+    "general": "Greer (GSP) Greenville Spartanburg International Airport / Estados Unidos"
+  },
+  {
+    "city": "Kalispell",
+    "iata": "FCA",
+    "airport": "Glacier Park International Airport",
+    "country": "Estados Unidos",
+    "general": "Kalispell (FCA) Glacier Park International Airport / Estados Unidos"
+  },
+  {
+    "city": "Panama City",
+    "iata": "ECP",
+    "airport": "Northwest Florida Beaches International Airport",
+    "country": "Estados Unidos",
+    "general": "Panama City (ECP) Northwest Florida Beaches International Airport / Estados Unidos"
+  },
+  {
+    "city": "Columbus",
+    "iata": "LCK",
+    "airport": "Rickenbacker International Airport",
+    "country": "Estados Unidos",
+    "general": "Columbus (LCK) Rickenbacker International Airport / Estados Unidos"
+  },
+  {
+    "city": "Allentown",
+    "iata": "ABE",
+    "airport": "Lehigh Valley International Airport",
+    "country": "Estados Unidos",
+    "general": "Allentown (ABE) Lehigh Valley International Airport / Estados Unidos"
+  },
+  {
+    "city": "Jackson",
+    "iata": "JAN",
+    "airport": "Jackson-Medgar Wiley Evers International Airport",
+    "country": "Estados Unidos",
+    "general": "Jackson (JAN) Jackson-Medgar Wiley Evers International Airport / Estados Unidos"
+  },
+  {
+    "city": "Homer",
+    "iata": "HOM",
+    "airport": "Homer Airport",
+    "country": "Estados Unidos",
+    "general": "Homer (HOM) Homer Airport / Estados Unidos"
+  },
+  {
+    "city": "Traverse City",
+    "iata": "TVC",
+    "airport": "Cherry Capital Airport",
+    "country": "Estados Unidos",
+    "general": "Traverse City (TVC) Cherry Capital Airport / Estados Unidos"
+  },
+  {
+    "city": "Santa Cruz das Flores",
+    "iata": "FLW",
+    "airport": "Aeroporto das Flores",
+    "country": "Portugal",
+    "general": "Santa Cruz das Flores (FLW) Aeroporto das Flores / Portugal"
+  },
+  {
+    "city": "Manila",
+    "iata": "MNL",
+    "airport": "Ninoy Aquino International Airport",
+    "country": "Filipinas",
+    "general": "Manila (MNL) Ninoy Aquino International Airport / Filipinas"
+  },
+  {
+    "city": "Fayetteville",
+    "iata": "FAY",
+    "airport": "Fayetteville Regional/Grannis Field",
+    "country": "Estados Unidos",
+    "general": "Fayetteville (FAY) Fayetteville Regional/Grannis Field / Estados Unidos"
+  },
+  {
+    "city": "Frankfurt am Main",
+    "iata": "QEF",
+    "airport": "Frankfurt-Egelsbach Airport",
+    "country": "Alemanha",
+    "general": "Frankfurt am Main (QEF) Frankfurt-Egelsbach Airport / Alemanha"
+  },
+  {
+    "city": "Bristol",
+    "iata": "BRS",
+    "airport": "Bristol Airport",
+    "country": "Reino Unido",
+    "general": "Bristol (BRS) Bristol Airport / Reino Unido"
+  },
+  {
+    "city": "Luxembourg",
+    "iata": "LUX",
+    "airport": "Aeroporto Internacional de Luxemburgo-Findel",
+    "country": "Luxemburgo",
+    "general": "Luxembourg (LUX) Aeroporto Internacional de Luxemburgo-Findel / Luxemburgo"
+  },
+  {
+    "city": "Edinburgh",
+    "iata": "EDI",
+    "airport": "Aeroporto de Edimburgo",
+    "country": "Reino Unido",
+    "general": "Edinburgh (EDI) Aeroporto de Edimburgo / Reino Unido"
+  },
+  {
+    "city": "Guadalajara",
+    "iata": "GDL",
+    "airport": "Don Miguel Hidalgo Y Costilla International Airport",
+    "country": "México",
+    "general": "Guadalajara (GDL) Don Miguel Hidalgo Y Costilla International Airport / México"
+  },
+  {
+    "city": "Sydney",
+    "iata": "SYD",
+    "airport": "Aeroporto Internacional de Sydney",
+    "country": "Austrália",
+    "general": "Sydney (SYD) Aeroporto Internacional de Sydney / Austrália"
+  },
+  {
+    "city": "Asunción",
+    "iata": "ASU",
+    "airport": "Silvio Pettirossi International Airport",
+    "country": "Paraguai",
+    "general": "Asunción (ASU) Silvio Pettirossi International Airport / Paraguai"
+  },
+  {
+    "city": "Hannover",
+    "iata": "HAJ",
+    "airport": "Hannover Airport",
+    "country": "Alemanha",
+    "general": "Hannover (HAJ) Hannover Airport / Alemanha"
+  },
+  {
+    "city": "Maroochydore",
+    "iata": "MCY",
+    "airport": "Sunshine Coast Airport",
+    "country": "Austrália",
+    "general": "Maroochydore (MCY) Sunshine Coast Airport / Austrália"
+  },
+  {
+    "city": "Salvador",
+    "iata": "SSA",
+    "airport": "Aeroporto Dois de Julho",
+    "country": "Brasil",
+    "general": "Salvador (SSA) Aeroporto Dois de Julho / Brasil"
+  },
+  {
+    "city": "Montpellier/Méditerranée",
+    "iata": "MPL",
+    "airport": "Montpellier-Méditerranée Airport",
+    "country": "França",
+    "general": "Montpellier/Méditerranée (MPL) Montpellier-Méditerranée Airport / França"
+  },
+  {
+    "city": "Tunis",
+    "iata": "TUN",
+    "airport": "Tunis Carthage International Airport",
+    "country": "Tunísia",
+    "general": "Tunis (TUN) Tunis Carthage International Airport / Tunísia"
+  },
+  {
+    "city": "Toussus-le-Noble",
+    "iata": "TNF",
+    "airport": "Toussus-le-Noble Airport",
+    "country": "França",
+    "general": "Toussus-le-Noble (TNF ) Toussus-le-Noble Airport / França"
+  },
+  {
+    "city": "Brussels",
+    "iata": "CRL",
+    "airport": "Brussels South Charleroi Airport",
+    "country": "Bélgica",
+    "general": "Brussels (CRL ) Brussels South Charleroi Airport / Bélgica"
+  },
+  {
+    "city": "Brest/Guipavas",
+    "iata": "BES",
+    "airport": "Brest Bretagne Airport",
+    "country": "França",
+    "general": "Brest/Guipavas (BES ) Brest Bretagne Airport / França"
+  },
+  {
+    "city": "Catania",
+    "iata": "CTA",
+    "airport": "Catania-Fontanarossa Airport",
+    "country": "Itália",
+    "general": "Catania (CTA ) Catania-Fontanarossa Airport / Itália"
+  },
+  {
+    "city": "Málaga",
+    "iata": "AGP",
+    "airport": "Málaga Airport",
+    "country": "Espanha",
+    "general": "Málaga (AGP ) Málaga Airport / Espanha"
+  },
+  {
+    "city": "Helsinki",
+    "iata": "HEL",
+    "airport": "Helsinki Vantaa Airport",
+    "country": "Finlândia",
+    "general": "Helsinki (HEL ) Helsinki Vantaa Airport / Finlândia"
+  },
+  {
+    "city": "Singapore",
+    "iata": "SIN",
+    "airport": "Aeroporto de Singapura",
+    "country": "Singapura",
+    "general": "Singapore (SIN ) Aeroporto de Singapura / Singapura"
+  },
+  {
+    "city": "Queenstown",
+    "iata": "ZQN",
+    "airport": "Queenstown International Airport",
+    "country": "Nova Zelândia",
+    "general": "Queenstown (ZQN ) Queenstown International Airport / Nova Zelândia"
+  },
+  {
+    "city": "Reykjavík",
+    "iata": "KEF",
+    "airport": "Aeroporto Internacional de Keflavík",
+    "country": "Islândia",
+    "general": "Reykjavík (KEF ) Aeroporto Internacional de Keflavík / Islândia"
+  },
+  {
+    "city": "Hong Kong",
+    "iata": "HKG",
+    "airport": "Aeroporto Internacional de Hong Kong",
+    "country": "Hong Kong",
+    "general": "Hong Kong (HKG ) Aeroporto Internacional de Hong Kong / Hong Kong"
+  },
+  {
+    "city": "Ota, Tokyo",
+    "iata": "HND",
+    "airport": "Tokyo Haneda International Airport",
+    "country": "Japão",
+    "general": "Ota, Tokyo (HND ) Tokyo Haneda International Airport / Japão"
+  },
+  {
+    "city": "London",
+    "iata": "LTN",
+    "airport": "London Luton Airport",
+    "country": "Reino Unido",
+    "general": "London (LTN ) London Luton Airport / Reino Unido"
+  },
+  {
+    "city": "Ibiza",
+    "iata": "IBZ",
+    "airport": "Ibiza Airport",
+    "country": "Espanha",
+    "general": "Ibiza (IBZ ) Ibiza Airport / Espanha"
+  },
+  {
+    "city": "Florianópolis",
+    "iata": "FLN",
+    "airport": "Aeroporto Internacional Hercílio Luz",
+    "country": "Brasil",
+    "general": "Florianópolis (FLN ) Aeroporto Internacional Hercílio Luz / Brasil"
+  },
+  {
+    "city": "Warsaw",
+    "iata": "WMI",
+    "airport": "Modlin Airport",
+    "country": "Polónia",
+    "general": "Warsaw (WMI ) Modlin Airport / Polónia"
+  },
+  {
+    "city": "Lille/Lesquin",
+    "iata": "LIL",
+    "airport": "Lille-Lesquin Airport",
+    "country": "França",
+    "general": "Lille/Lesquin (LIL ) Lille-Lesquin Airport / França"
+  },
+  {
+    "city": "Liverpool",
+    "iata": "LPL",
+    "airport": "Liverpool John Lennon Airport",
+    "country": "Reino Unido",
+    "general": "Liverpool (LPL ) Liverpool John Lennon Airport / Reino Unido"
+  },
+  {
+    "city": "Eindhoven",
+    "iata": "EIN",
+    "airport": "Eindhoven Airport",
+    "country": "Países Baixos",
+    "general": "Eindhoven (EIN ) Eindhoven Airport / Países Baixos"
+  },
+  {
+    "city": "Gran Canaria Island",
+    "iata": "LPA",
+    "airport": "Gran Canaria Airport",
+    "country": "Espanha",
+    "general": "Gran Canaria Island (LPA ) Gran Canaria Airport / Espanha"
+  },
+  {
+    "city": "Milan",
+    "iata": "LIN",
+    "airport": "Milano Linate Airport",
+    "country": "Itália",
+    "general": "Milan (LIN ) Milano Linate Airport / Itália"
+  },
+  {
+    "city": "Alicante",
+    "iata": "ALC",
+    "airport": "Alicante International Airport",
+    "country": "Espanha",
+    "general": "Alicante (ALC ) Alicante International Airport / Espanha"
+  },
+  {
+    "city": "Sevilla",
+    "iata": "SVQ",
+    "airport": "Sevilla Airport",
+    "country": "Espanha",
+    "general": "Sevilla (SVQ ) Sevilla Airport / Espanha"
+  },
+  {
+    "city": "Lyon",
+    "iata": "LYS",
+    "airport": "Lyon Saint-Exupéry Airport",
+    "country": "França",
+    "general": "Lyon (LYS ) Lyon Saint-Exupéry Airport / França"
+  },
+  {
+    "city": "Birmingham",
+    "iata": "BHX",
+    "airport": "Birmingham International Airport",
+    "country": "Reino Unido",
+    "general": "Birmingham (BHX ) Birmingham International Airport / Reino Unido"
+  },
+  {
+    "city": "Stockholm",
+    "iata": "ARN",
+    "airport": "Aeroporto de Arlanda",
+    "country": "Suécia",
+    "general": "Stockholm (ARN ) Aeroporto de Arlanda / Suécia"
+  },
+  {
+    "city": "Recife",
+    "iata": "REC",
+    "airport": "Aeroporto Internacional do Recife/Guararapes-Gilberto Freyre",
+    "country": "Brasil",
+    "general": "Recife (REC ) Aeroporto Internacional do Recife/Guararapes-Gilberto Freyre / Brasil"
+  },
+  {
+    "city": "Aachen",
+    "iata": "AAH",
+    "airport": "Aachen-Merzbrück Airport",
+    "country": "Alemanha",
+    "general": "Aachen (AAH ) Aachen-Merzbrück Airport / Alemanha"
+  },
+  {
+    "city": "Ostend",
+    "iata": "OST",
+    "airport": "Ostend-Bruges International Airport",
+    "country": "Bélgica",
+    "general": "Ostend (OST ) Ostend-Bruges International Airport / Bélgica"
+  },
+  {
+    "city": "Goiânia",
+    "iata": "GYN",
+    "airport": "Aeroporto Santa Genoveva / Goiânia",
+    "country": "Brasil",
+    "general": "Goiânia (GYN ) Aeroporto Santa Genoveva / Goiânia / Brasil"
+  },
+  {
+    "city": "Rzeszów",
+    "iata": "RZE",
+    "airport": "Rzeszów-Jasionka Airport",
+    "country": "Polónia",
+    "general": "Rzeszów (RZE ) Rzeszów-Jasionka Airport / Polónia"
+  },
+  {
+    "city": "Breda",
+    "iata": "GLZ",
+    "airport": "Gilze Rijen Air Base",
+    "country": "Países Baixos",
+    "general": "Breda (GLZ ) Gilze Rijen Air Base / Países Baixos"
+  },
+  {
+    "city": "Tenerife Island",
+    "iata": "TFS",
+    "airport": "Aeroporto de Tenerife Sul",
+    "country": "Espanha",
+    "general": "Tenerife Island (TFS ) Aeroporto de Tenerife Sul / Espanha"
+  },
+  {
+    "city": "Antwerp",
+    "iata": "ANR",
+    "airport": "Antwerp International Airport (Deurne)",
+    "country": "Bélgica",
+    "general": "Antwerp (ANR ) Antwerp International Airport (Deurne) / Bélgica"
+  },
+  {
+    "city": "Navegantes",
+    "iata": "NVT",
+    "airport": "Aeroporto Internacional de Navegantes–Ministro Victor Konder",
+    "country": "Brasil",
+    "general": "Navegantes (NVT ) Aeroporto Internacional de Navegantes–Ministro Victor Konder / Brasil"
+  },
+  {
+    "city": "New Delhi",
+    "iata": "DEL",
+    "airport": "Aeroporto Internacional Indira Gandhi",
+    "country": "Índia",
+    "general": "New Delhi (DEL ) Aeroporto Internacional Indira Gandhi / Índia"
+  },
+  {
+    "city": "Katowice",
+    "iata": "KTW",
+    "airport": "Katowice International Airport",
+    "country": "Polónia",
+    "general": "Katowice (KTW ) Katowice International Airport / Polónia"
+  },
+  {
+    "city": "Dubai",
+    "iata": "DXB",
+    "airport": "Aeroporto Internacional de Dubai",
+    "country": "Emirados Árabes Unidos",
+    "general": "Dubai (DXB ) Aeroporto Internacional de Dubai / Emirados Árabes Unidos"
+  },
+  {
+    "city": "Prague",
+    "iata": "PRG",
+    "airport": "Václav Havel Airport Prague",
+    "country": "Chéquia",
+    "general": "Prague (PRG ) Václav Havel Airport Prague / Chéquia"
+  },
+  {
+    "city": "Deventer",
+    "iata": "TGE",
+    "airport": "Teuge International Airport",
+    "country": "Países Baixos",
+    "general": "Deventer (TGE ) Teuge International Airport / Países Baixos"
+  },
+  {
+    "city": "Tenerife Island",
+    "iata": "TFN",
+    "airport": "Tenerife Norte Airport",
+    "country": "Espanha",
+    "general": "Tenerife Island (TFN ) Tenerife Norte Airport / Espanha"
+  },
+  {
+    "city": "Bâle/Mulhouse",
+    "iata": "BSL",
+    "airport": "EuroAirport Basel-Mulhouse-Freiburg Airport",
+    "country": "França",
+    "general": "Bâle/Mulhouse (BSL ) EuroAirport Basel-Mulhouse-Freiburg Airport / França"
+  },
+  {
+    "city": "Ponta Delgada",
+    "iata": "PDL",
+    "airport": "Aeroporto João Paulo II",
+    "country": "Portugal",
+    "general": "Ponta Delgada (PDL ) Aeroporto João Paulo II / Portugal"
+  },
+  {
+    "city": "Campo Grande",
+    "iata": "CGR",
+    "airport": "Aeroporto Internacional de Campo Grande",
+    "country": "Brasil",
+    "general": "Campo Grande (CGR ) Aeroporto Internacional de Campo Grande / Brasil"
+  },
+  {
+    "city": "Nottingham",
+    "iata": "EMA",
+    "airport": "East Midlands Airport",
+    "country": "Reino Unido",
+    "general": "Nottingham (EMA ) East Midlands Airport / Reino Unido"
+  },
+  {
+    "city": "Bremen",
+    "iata": "BRE",
+    "airport": "Bremen Airport",
+    "country": "Alemanha",
+    "general": "Bremen (BRE ) Bremen Airport / Alemanha"
+  },
+  {
+    "city": "Nápoli",
+    "iata": "NAP",
+    "airport": "Naples International Airport",
+    "country": "Itália",
+    "general": "Nápoli (NAP ) Naples International Airport / Itália"
+  },
+  {
+    "city": "Groningen",
+    "iata": "GRQ",
+    "airport": "Groningen Airport Eelde",
+    "country": "Países Baixos",
+    "general": "Groningen (GRQ ) Groningen Airport Eelde / Países Baixos"
+  },
+  {
+    "city": "Antalya",
+    "iata": "AYT",
+    "airport": "Antalya International Airport",
+    "country": "Turquia",
+    "general": "Antalya (AYT ) Antalya International Airport / Turquia"
+  },
+  {
+    "city": "Wrocław",
+    "iata": "WRO",
+    "airport": "Copernicus Wrocław Airport",
+    "country": "Polónia",
+    "general": "Wrocław (WRO ) Copernicus Wrocław Airport / Polónia"
+  },
+  {
+    "city": "Medellín",
+    "iata": "MDE",
+    "airport": "Jose Maria Córdova International Airport",
+    "country": "Colômbia",
+    "general": "Medellín (MDE ) Jose Maria Córdova International Airport / Colômbia"
+  },
+  {
+    "city": "Cairo",
+    "iata": "CAI",
+    "airport": "Aeroporto Internacional do Cairo",
+    "country": "Egito",
+    "general": "Cairo (CAI ) Aeroporto Internacional do Cairo / Egito"
+  },
+  {
+    "city": "Vitória",
+    "iata": "VIX",
+    "airport": "Aeroporto de Vitória",
+    "country": "Brasil",
+    "general": "Vitória (VIX ) Aeroporto de Vitória / Brasil"
+  },
+  {
+    "city": "Nuremberg",
+    "iata": "NUE",
+    "airport": "Nuremberg Airport",
+    "country": "Alemanha",
+    "general": "Nuremberg (NUE ) Nuremberg Airport / Alemanha"
+  },
+  {
+    "city": "Montréal",
+    "iata": "YHU",
+    "airport": "Montréal / Saint-Hubert Airport",
+    "country": "Canadá",
+    "general": "Montréal (YHU ) Montréal / Saint-Hubert Airport / Canadá"
+  },
+  {
+    "city": "Ranón",
+    "iata": "OVD",
+    "airport": "Asturias Airport",
+    "country": "Espanha",
+    "general": "Ranón (OVD ) Asturias Airport / Espanha"
+  },
+  {
+    "city": "Toluca",
+    "iata": "TLC",
+    "airport": "Licenciado Adolfo Lopez Mateos International Airport",
+    "country": "México",
+    "general": "Toluca (TLC ) Licenciado Adolfo Lopez Mateos International Airport / México"
+  },
+  {
+    "city": "Valencia",
+    "iata": "VLC",
+    "airport": "Valencia Airport",
+    "country": "Espanha",
+    "general": "Valencia (VLC ) Valencia Airport / Espanha"
+  },
+  {
+    "city": "Valletta",
+    "iata": "MLA",
+    "airport": "Malta International Airport",
+    "country": "Malta",
+    "general": "Valletta (MLA ) Malta International Airport / Malta"
+  },
+  {
+    "city": "Sofia",
+    "iata": "SOF",
+    "airport": "Sofia Airport",
+    "country": "Bulgária",
+    "general": "Sofia (SOF ) Sofia Airport / Bulgária"
+  },
+  {
+    "city": "Cork",
+    "iata": "ORK",
+    "airport": "Cork Airport",
+    "country": "Irlanda",
+    "general": "Cork (ORK ) Cork Airport / Irlanda"
+  },
+  {
+    "city": "Melbourne",
+    "iata": "MEL",
+    "airport": "Aeroporto de Melbourne",
+    "country": "Austrália",
+    "general": "Melbourne (MEL ) Aeroporto de Melbourne / Austrália"
+  },
+  {
+    "city": "Bergamo",
+    "iata": "BGY",
+    "airport": "Milan Bergamo Airport",
+    "country": "Itália",
+    "general": "Bergamo (BGY ) Milan Bergamo Airport / Itália"
+  },
+  {
+    "city": "Santiago",
+    "iata": "SCL",
+    "airport": "Comodoro Arturo Merino Benítez International Airport",
+    "country": "Chile",
+    "general": "Santiago (SCL ) Comodoro Arturo Merino Benítez International Airport / Chile"
+  },
+  {
+    "city": "Leipzig",
+    "iata": "LEJ",
+    "airport": "Leipzig/Halle Airport",
+    "country": "Alemanha",
+    "general": "Leipzig (LEJ ) Leipzig/Halle Airport / Alemanha"
+  },
+  {
+    "city": "Santiago de Compostela",
+    "iata": "SCQ",
+    "airport": "Santiago de Compostela Airport",
+    "country": "Espanha",
+    "general": "Santiago de Compostela (SCQ ) Santiago de Compostela Airport / Espanha"
+  },
+  {
+    "city": "Lanzarote Island",
+    "iata": "ACE",
+    "airport": "Lanzarote Airport",
+    "country": "Espanha",
+    "general": "Lanzarote Island (ACE ) Lanzarote Airport / Espanha"
+  },
+  {
+    "city": "Pokhara",
+    "iata": "PKR",
+    "airport": "Pokhara Airport",
+    "country": "Nepal",
+    "general": "Pokhara (PKR ) Pokhara Airport / Nepal"
+  },
+  {
+    "city": "Auckland",
+    "iata": "AKL",
+    "airport": "Auckland International Airport",
+    "country": "Nova Zelândia",
+    "general": "Auckland (AKL ) Auckland International Airport / Nova Zelândia"
+  },
+  {
+    "city": "Querétaro",
+    "iata": "QRO",
+    "airport": "Querétaro Intercontinental Airport",
+    "country": "México",
+    "general": "Querétaro (QRO ) Querétaro Intercontinental Airport / México"
+  },
+  {
+    "city": "Kathmandu",
+    "iata": "KTM",
+    "airport": "Tribhuvan International Airport",
+    "country": "Nepal",
+    "general": "Kathmandu (KTM ) Tribhuvan International Airport / Nepal"
+  },
+  {
+    "city": "Uden",
+    "iata": "UDE",
+    "airport": "Volkel Air Base",
+    "country": "Países Baixos",
+    "general": "Uden (UDE ) Volkel Air Base / Países Baixos"
+  },
+  {
+    "city": "Pico Island",
+    "iata": "PIX",
+    "airport": "Aeroporto do Pico",
+    "country": "Portugal",
+    "general": "Pico Island (PIX ) Aeroporto do Pico / Portugal"
+  },
+  {
+    "city": "Glasgow",
+    "iata": "GLA",
+    "airport": "Glasgow International Airport",
+    "country": "Reino Unido",
+    "general": "Glasgow (GLA ) Glasgow International Airport / Reino Unido"
+  },
+  {
+    "city": "Bergen",
+    "iata": "BGO",
+    "airport": "Bergen Airport, Flesland",
+    "country": "Noruega",
+    "general": "Bergen (BGO ) Bergen Airport, Flesland / Noruega"
+  },
+  {
+    "city": "St. Petersburg",
+    "iata": "LED",
+    "airport": "Aeroporto de Pulkovo",
+    "country": "Rússia",
+    "general": "St. Petersburg (LED ) Aeroporto de Pulkovo / Rússia"
+  },
+  {
+    "city": "Sarajevo",
+    "iata": "SJJ",
+    "airport": "Sarajevo International Airport",
+    "country": "Bósnia e Herzegovina",
+    "general": "Sarajevo (SJJ ) Sarajevo International Airport / Bósnia e Herzegovina"
+  },
+  {
+    "city": "Fortaleza",
+    "iata": "FOR",
+    "airport": "Aeroporto Internacional de Fortaleza",
+    "country": "Brasil",
+    "general": "Fortaleza (FOR ) Aeroporto Internacional de Fortaleza / Brasil"
+  },
+  {
+    "city": "Salzburg",
+    "iata": "SZG",
+    "airport": "Salzburg Airport",
+    "country": "Áustria",
+    "general": "Salzburg (SZG ) Salzburg Airport / Áustria"
+  },
+  {
+    "city": "Mérida",
+    "iata": "MID",
+    "airport": "Aeropuerto Internacional Manuel Crescencio Rejón",
+    "country": "México",
+    "general": "Mérida (MID ) Aeropuerto Internacional Manuel Crescencio Rejón / México"
+  },
+  {
+    "city": "Jerez de la Frontera",
+    "iata": "XRY",
+    "airport": "Jerez Airport",
+    "country": "Espanha",
+    "general": "Jerez de la Frontera (XRY ) Jerez Airport / Espanha"
+  },
+  {
+    "city": "Łódź",
+    "iata": "LCJ",
+    "airport": "Łódź Władysław Reymont Airport",
+    "country": "Polónia",
+    "general": "Łódź (LCJ ) Łódź Władysław Reymont Airport / Polónia"
+  },
+  {
+    "city": "Bologna",
+    "iata": "BLQ",
+    "airport": "Bologna Guglielmo Marconi Airport",
+    "country": "Itália",
+    "general": "Bologna (BLQ ) Bologna Guglielmo Marconi Airport / Itália"
+  },
+  {
+    "city": "Tocumen",
+    "iata": "PTY",
+    "airport": "Aeroporto Internacional Tocumen",
+    "country": "Panamá",
+    "general": "Tocumen (PTY ) Aeroporto Internacional Tocumen / Panamá"
+  },
+  {
+    "city": "Algiers",
+    "iata": "ALG",
+    "airport": "Houari Boumediene Airport",
+    "country": "Argélia",
+    "general": "Algiers (ALG ) Houari Boumediene Airport / Argélia"
+  },
+  {
+    "city": "Ben Slimane",
+    "iata": "GMD",
+    "airport": "Ben Slimane Airport",
+    "country": "Marrocos",
+    "general": "Ben Slimane (GMD ) Ben Slimane Airport / Marrocos"
+  },
+  {
+    "city": "Faro",
+    "iata": "FAO",
+    "airport": "Aeroporto de Faro",
+    "country": "Portugal",
+    "general": "Faro (FAO ) Aeroporto de Faro / Portugal"
+  },
+  {
+    "city": "Split",
+    "iata": "SPU",
+    "airport": "Split Airport",
+    "country": "Croácia",
+    "general": "Split (SPU ) Split Airport / Croácia"
+  },
+  {
+    "city": "Firenze",
+    "iata": "FLR",
+    "airport": "Peretola Airport",
+    "country": "Itália",
+    "general": "Firenze (FLR ) Peretola Airport / Itália"
+  },
+  {
+    "city": "Tel Aviv",
+    "iata": "TLV",
+    "airport": "Aeroporto Internacional Ben Gurion",
+    "country": "Israel",
+    "general": "Tel Aviv (TLV ) Aeroporto Internacional Ben Gurion / Israel"
+  },
+  {
+    "city": "San Jose",
+    "iata": "SJO",
+    "airport": "Aeroporto Internacional Juan Santamaría",
+    "country": "Costa Rica",
+    "general": "San Jose (SJO ) Aeroporto Internacional Juan Santamaría / Costa Rica"
+  },
+  {
+    "city": "Bangkok",
+    "iata": "BKK",
+    "airport": "Aeroporto Internacional de Suvarnabhumi",
+    "country": "Tailândia",
+    "general": "Bangkok (BKK ) Aeroporto Internacional de Suvarnabhumi / Tailândia"
+  },
+  {
+    "city": "Istanbul",
+    "iata": "SAW",
+    "airport": "Istanbul Sabiha Gökçen International Airport",
+    "country": "Turquia",
+    "general": "Istanbul (SAW ) Istanbul Sabiha Gökçen International Airport / Turquia"
+  },
+  {
+    "city": "London",
+    "iata": "LCY",
+    "airport": "Aeroporto da Cidade de Londres",
+    "country": "Reino Unido",
+    "general": "London (LCY ) Aeroporto da Cidade de Londres / Reino Unido"
+  },
+  {
+    "city": "Ajaccio/Napoléon Bonaparte",
+    "iata": "AJA",
+    "airport": "Ajaccio-Napoléon Bonaparte Airport",
+    "country": "França",
+    "general": "Ajaccio/Napoléon Bonaparte (AJA ) Ajaccio-Napoléon Bonaparte Airport / França"
+  },
+  {
+    "city": "Culleredo",
+    "iata": "LCG",
+    "airport": "A Coruña Airport",
+    "country": "Espanha",
+    "general": "Culleredo (LCG ) A Coruña Airport / Espanha"
+  },
+  {
+    "city": "Moscow",
+    "iata": "SVO",
+    "airport": "Aeroporto Moscovo Sheremetievo",
+    "country": "Rússia",
+    "general": "Moscow (SVO ) Aeroporto Moscovo Sheremetievo / Rússia"
+  },
+  {
+    "city": "Khartoum",
+    "iata": "KRT",
+    "airport": "Khartoum International Airport",
+    "country": "Sudão",
+    "general": "Khartoum (KRT ) Khartoum International Airport / Sudão"
+  },
+  {
+    "city": "Vadodara",
+    "iata": "BDQ",
+    "airport": "Vadodara Airport",
+    "country": "Índia",
+    "general": "Vadodara (BDQ ) Vadodara Airport / Índia"
+  },
+  {
+    "city": "Mabalacat",
+    "iata": "CRK",
+    "airport": "Diosdado Macapagal International Airport",
+    "country": "Filipinas",
+    "general": "Mabalacat (CRK ) Diosdado Macapagal International Airport / Filipinas"
+  },
+  {
+    "city": "Newcastle",
+    "iata": "NCL",
+    "airport": "Newcastle Airport",
+    "country": "Reino Unido",
+    "general": "Newcastle (NCL ) Newcastle Airport / Reino Unido"
+  },
+  {
+    "city": "Rennes/Saint-Jacques",
+    "iata": "RNS",
+    "airport": "Rennes-Saint-Jacques Airport",
+    "country": "França",
+    "general": "Rennes/Saint-Jacques (RNS ) Rennes-Saint-Jacques Airport / França"
+  },
+  {
+    "city": "Dortmund",
+    "iata": "DTM",
+    "airport": "Dortmund Airport",
+    "country": "Alemanha",
+    "general": "Dortmund (DTM ) Dortmund Airport / Alemanha"
+  },
+  {
+    "city": "Londrina",
+    "iata": "LDB",
+    "airport": "Governador José Richa Airport",
+    "country": "Brasil",
+    "general": "Londrina (LDB ) Governador José Richa Airport / Brasil"
+  },
+  {
+    "city": "Vigo",
+    "iata": "VGO",
+    "airport": "Vigo Airport",
+    "country": "Espanha",
+    "general": "Vigo (VGO ) Vigo Airport / Espanha"
+  },
+  {
+    "city": "Cancún",
+    "iata": "CUN",
+    "airport": "Cancún International Airport",
+    "country": "México",
+    "general": "Cancún (CUN ) Cancún International Airport / México"
+  },
+  {
+    "city": "Curitiba",
+    "iata": "BFH",
+    "airport": "Bacacheri Airport",
+    "country": "Brasil",
+    "general": "Curitiba (BFH ) Bacacheri Airport / Brasil"
+  },
+  {
+    "city": "Melbourne",
+    "iata": "MBW",
+    "airport": "Melbourne Moorabbin Airport",
+    "country": "Austrália",
+    "general": "Melbourne (MBW ) Melbourne Moorabbin Airport / Austrália"
+  },
+  {
+    "city": "Cordoba",
+    "iata": "COR",
+    "airport": "Ingeniero Ambrosio Taravella Airport",
+    "country": "Argentina",
+    "general": "Cordoba (COR ) Ingeniero Ambrosio Taravella Airport / Argentina"
+  },
+  {
+    "city": "St. John's",
+    "iata": "YYT",
+    "airport": "St. John's International Airport",
+    "country": "Canadá",
+    "general": "St. John's (YYT ) St. John's International Airport / Canadá"
+  },
+  {
+    "city": "Tokyo / Narita",
+    "iata": "NRT",
+    "airport": "Aeroporto Internacional de Narita",
+    "country": "Japão",
+    "general": "Tokyo / Narita (NRT ) Aeroporto Internacional de Narita / Japão"
+  },
+  {
+    "city": "",
+    "iata": "ESS",
+    "airport": "Essen Mulheim Airport",
+    "country": "Alemanha",
+    "general": " (ESS ) Essen Mulheim Airport / Alemanha"
+  },
+  {
+    "city": "Riga",
+    "iata": "RIX",
+    "airport": "Aeroporto Internacional de Riga",
+    "country": "Letônia",
+    "general": "Riga (RIX ) Aeroporto Internacional de Riga / Letônia"
+  },
+  {
+    "city": "Lyon/Bron",
+    "iata": "LYN",
+    "airport": "Lyon-Bron Airport",
+    "country": "França",
+    "general": "Lyon/Bron (LYN ) Lyon-Bron Airport / França"
+  },
+  {
+    "city": "Dresden",
+    "iata": "DRS",
+    "airport": "Dresden Airport",
+    "country": "Alemanha",
+    "general": "Dresden (DRS ) Dresden Airport / Alemanha"
+  },
+  {
+    "city": "Taipei",
+    "iata": "TPE",
+    "airport": "Aeroporto Internacional de Taiwan Taoyuan",
+    "country": "Taiwan",
+    "general": "Taipei (TPE ) Aeroporto Internacional de Taiwan Taoyuan / Taiwan"
+  },
+  {
+    "city": "Heraklion",
+    "iata": "HER",
+    "airport": "Heraklion International Nikos Kazantzakis Airport",
+    "country": "Grécia",
+    "general": "Heraklion (HER ) Heraklion International Nikos Kazantzakis Airport / Grécia"
+  },
+  {
+    "city": "Kitchener",
+    "iata": "YKF",
+    "airport": "Region of Waterloo International Airport",
+    "country": "Canadá",
+    "general": "Kitchener (YKF ) Region of Waterloo International Airport / Canadá"
+  },
+  {
+    "city": "Montichiari (BS)",
+    "iata": "VBS",
+    "airport": "Brescia Airport",
+    "country": "Itália",
+    "general": "Montichiari (BS) (VBS ) Brescia Airport / Itália"
+  },
+  {
+    "city": "Brisbane",
+    "iata": "BNE",
+    "airport": "Aeroporto Internacional de Brisbane",
+    "country": "Austrália",
+    "general": "Brisbane (BNE ) Aeroporto Internacional de Brisbane / Austrália"
+  },
+  {
+    "city": "Casablanca",
+    "iata": "CMN",
+    "airport": "Mohammed V International Airport",
+    "country": "Marrocos",
+    "general": "Casablanca (CMN ) Mohammed V International Airport / Marrocos"
+  },
+  {
+    "city": "Saint Helier",
+    "iata": "JER",
+    "airport": "Jersey Airport",
+    "country": "Jersey",
+    "general": "Saint Helier (JER ) Jersey Airport / Jersey"
+  },
+  {
+    "city": "Cagliari",
+    "iata": "CAG",
+    "airport": "Cagliari Elmas Airport",
+    "country": "Itália",
+    "general": "Cagliari (CAG ) Cagliari Elmas Airport / Itália"
+  },
+  {
+    "city": "Palermo",
+    "iata": "PMO",
+    "airport": "Falcone–Borsellino Airport",
+    "country": "Itália",
+    "general": "Palermo (PMO ) Falcone–Borsellino Airport / Itália"
+  },
+  {
+    "city": "Jaipur",
+    "iata": "JAI",
+    "airport": "Jaipur International Airport",
+    "country": "Índia",
+    "general": "Jaipur (JAI ) Jaipur International Airport / Índia"
+  },
+  {
+    "city": "Caracas",
+    "iata": "CCS",
+    "airport": "Aeroporto Internacional Simón Bolívar",
+    "country": "Venezuela",
+    "general": "Caracas (CCS ) Aeroporto Internacional Simón Bolívar / Venezuela"
+  },
+  {
+    "city": "Mumbai",
+    "iata": "BOM",
+    "airport": "Aeroporto Internacional de Chhatrapati Shivaji",
+    "country": "Índia",
+    "general": "Mumbai (BOM ) Aeroporto Internacional de Chhatrapati Shivaji / Índia"
+  },
+  {
+    "city": "Edmonton",
+    "iata": "YEG",
+    "airport": "Edmonton International Airport",
+    "country": "Canadá",
+    "general": "Edmonton (YEG ) Edmonton International Airport / Canadá"
+  },
+  {
+    "city": "Gibraltar",
+    "iata": "GIB",
+    "airport": "Gibraltar Airport",
+    "country": "Gibraltar",
+    "general": "Gibraltar (GIB ) Gibraltar Airport / Gibraltar"
+  },
+  {
+    "city": "Belfast",
+    "iata": "BFS",
+    "airport": "Belfast International Airport",
+    "country": "Reino Unido",
+    "general": "Belfast (BFS ) Belfast International Airport / Reino Unido"
+  },
+  {
+    "city": "Genova",
+    "iata": "GOA",
+    "airport": "Aeroporto Internacional Cristovão Colombo",
+    "country": "Itália",
+    "general": "Genova (GOA ) Aeroporto Internacional Cristovão Colombo / Itália"
+  },
+  {
+    "city": "Pisa",
+    "iata": "PSA",
+    "airport": "Pisa International Airport",
+    "country": "Itália",
+    "general": "Pisa (PSA ) Pisa International Airport / Itália"
+  },
+  {
+    "city": "Kerkyra Island",
+    "iata": "CFU",
+    "airport": "Ioannis Kapodistrias International Airport",
+    "country": "Grécia",
+    "general": "Kerkyra Island (CFU ) Ioannis Kapodistrias International Airport / Grécia"
+  },
+  {
+    "city": "Bern",
+    "iata": "BRN",
+    "airport": "Bern Belp Airport",
+    "country": "Suíça",
+    "general": "Bern (BRN ) Bern Belp Airport / Suíça"
+  },
+  {
+    "city": "Maringá",
+    "iata": "MGF",
+    "airport": "Aeroporto Regional de Maringá - Sílvio Name Júnior",
+    "country": "Brasil",
+    "general": "Maringá (MGF ) Aeroporto Regional de Maringá - Sílvio Name Júnior / Brasil"
+  },
+  {
+    "city": "Fuerteventura Island",
+    "iata": "FUE",
+    "airport": "Fuerteventura Airport",
+    "country": "Espanha",
+    "general": "Fuerteventura Island (FUE ) Fuerteventura Airport / Espanha"
+  },
+  {
+    "city": "Vagar",
+    "iata": "FAE",
+    "airport": "Vágar Airport",
+    "country": "Faroe Islands",
+    "general": "Vagar (FAE ) Vágar Airport / Faroe Islands"
+  },
+  {
+    "city": "Zagreb",
+    "iata": "ZAG",
+    "airport": "Zagreb Airport",
+    "country": "Croácia",
+    "general": "Zagreb (ZAG ) Zagreb Airport / Croácia"
+  },
+  {
+    "city": "Pisco",
+    "iata": "PIO",
+    "airport": "Captain Renán Elías Olivera International Airport",
+    "country": "Peru",
+    "general": "Pisco (PIO ) Captain Renán Elías Olivera International Airport / Peru"
+  },
+  {
+    "city": "Shannon",
+    "iata": "SNN",
+    "airport": "Aeroporto de Shannon",
+    "country": "Irlanda",
+    "general": "Shannon (SNN ) Aeroporto de Shannon / Irlanda"
+  },
+  {
+    "city": "Johannesburg",
+    "iata": "HLA",
+    "airport": "Lanseria Airport",
+    "country": "África do Sul",
+    "general": "Johannesburg (HLA ) Lanseria Airport / África do Sul"
+  },
+  {
+    "city": "Strasbourg",
+    "iata": "SXB",
+    "airport": "Strasbourg Airport",
+    "country": "França",
+    "general": "Strasbourg (SXB ) Strasbourg Airport / França"
+  },
+  {
+    "city": "Bydgoszcz",
+    "iata": "BZG",
+    "airport": "Bydgoszcz Ignacy Jan Paderewski Airport",
+    "country": "Polónia",
+    "general": "Bydgoszcz (BZG ) Bydgoszcz Ignacy Jan Paderewski Airport / Polónia"
+  },
+  {
+    "city": "León",
+    "iata": "LEN",
+    "airport": "Leon Airport",
+    "country": "Espanha",
+    "general": "León (LEN ) Leon Airport / Espanha"
+  },
+  {
+    "city": "Zaragoza",
+    "iata": "ZAZ",
+    "airport": "Zaragoza Air Base",
+    "country": "Espanha",
+    "general": "Zaragoza (ZAZ ) Zaragoza Air Base / Espanha"
+  },
+  {
+    "city": "Paris",
+    "iata": "LBG",
+    "airport": "Paris-Le Bourget Airport",
+    "country": "França",
+    "general": "Paris (LBG ) Paris-Le Bourget Airport / França"
+  },
+  {
+    "city": "Rosario",
+    "iata": "ROS",
+    "airport": "Aeroporto Internacional Rosario Islas Malvinas",
+    "country": "Argentina",
+    "general": "Rosario (ROS ) Aeroporto Internacional Rosario Islas Malvinas / Argentina"
+  },
+  {
+    "city": "Wevelgem",
+    "iata": "KJK",
+    "airport": "Wevelgem Airport",
+    "country": "Bélgica",
+    "general": "Wevelgem (KJK ) Wevelgem Airport / Bélgica"
+  },
+  {
+    "city": "Albacete",
+    "iata": "ABC",
+    "airport": "Albacete-Los Llanos Airport",
+    "country": "Espanha",
+    "general": "Albacete (ABC ) Albacete-Los Llanos Airport / Espanha"
+  },
+  {
+    "city": "Cape Town",
+    "iata": "CPT",
+    "airport": "Aeroporto Internacional da Cidade do Cabo",
+    "country": "África do Sul",
+    "general": "Cape Town (CPT ) Aeroporto Internacional da Cidade do Cabo / África do Sul"
+  },
+  {
+    "city": "Thessaloniki",
+    "iata": "SKG",
+    "airport": "Thessaloniki Macedonia International Airport",
+    "country": "Grécia",
+    "general": "Thessaloniki (SKG ) Thessaloniki Macedonia International Airport / Grécia"
+  },
+  {
+    "city": "Fort-de-France",
+    "iata": "FDF",
+    "airport": "Martinique Aimé Césaire International Airport",
+    "country": "Martinique",
+    "general": "Fort-de-France (FDF ) Martinique Aimé Césaire International Airport / Martinique"
+  },
+  {
+    "city": "Biarritz/Anglet/Bayonne",
+    "iata": "BIQ",
+    "airport": "Biarritz-Anglet-Bayonne Airport",
+    "country": "França",
+    "general": "Biarritz/Anglet/Bayonne (BIQ) Biarritz-Anglet-Bayonne Airport / França"
+  },
+  {
+    "city": "Sabadell",
+    "iata": "QSA",
+    "airport": "Sabadell Airport",
+    "country": "Espanha",
+    "general": "Sabadell (QSA) Sabadell Airport / Espanha"
+  },
+  {
+    "city": "Cuiabá",
+    "iata": "CGB",
+    "airport": "Aeroporto Internacional Marechal Rondon",
+    "country": "Brasil",
+    "general": "Cuiabá (CGB) Aeroporto Internacional Marechal Rondon / Brasil"
+  },
+  {
+    "city": "Moscow",
+    "iata": "DME",
+    "airport": "Domodedovo International Airport",
+    "country": "Rússia",
+    "general": "Moscow (DME) Domodedovo International Airport / Rússia"
+  },
+  {
+    "city": "Marrakech",
+    "iata": "RAK",
+    "airport": "Menara Airport",
+    "country": "Marrocos",
+    "general": "Marrakech (RAK) Menara Airport / Marrocos"
+  },
+  {
+    "city": "Halifax",
+    "iata": "YHZ",
+    "airport": "Aeroporto Internacional de Halifax",
+    "country": "Canadá",
+    "general": "Halifax (YHZ) Aeroporto Internacional de Halifax / Canadá"
+  },
+  {
+    "city": "Larnarca",
+    "iata": "LCA",
+    "airport": "Larnaca International Airport",
+    "country": "Chipre",
+    "general": "Larnarca (LCA) Larnaca International Airport / Chipre"
+  },
+  {
+    "city": "Seoul",
+    "iata": "ICN",
+    "airport": "Aeroporto Internacional de Incheon",
+    "country": "Coreia do Sul",
+    "general": "Seoul (ICN) Aeroporto Internacional de Incheon / Coreia do Sul"
+  },
+  {
+    "city": "Johannesburg",
+    "iata": "JNB",
+    "airport": "OR Tambo International Airport",
+    "country": "África do Sul",
+    "general": "Johannesburg (JNB) OR Tambo International Airport / África do Sul"
+  },
+  {
+    "city": "Toronto",
+    "iata": "YYZ",
+    "airport": "Lester B Pearson International Airport",
+    "country": "Canadá",
+    "general": "Toronto (YYZ) Lester B Pearson International Airport / Canadá"
+  },
+  {
+    "city": "Tijuana",
+    "iata": "TIJ",
+    "airport": "General Abelardo L. Rodríguez International Airport",
+    "country": "México",
+    "general": "Tijuana (TIJ) General Abelardo L. Rodríguez International Airport / México"
+  },
+  {
+    "city": "Bucharest",
+    "iata": "OTP",
+    "airport": "Aeroporto Internacional Henri Coandă",
+    "country": "Roménia",
+    "general": "Bucharest (OTP) Aeroporto Internacional Henri Coandă / Roménia"
+  },
+  {
+    "city": "Kelowna",
+    "iata": "YLW",
+    "airport": "Kelowna International Airport",
+    "country": "Canadá",
+    "general": "Kelowna (YLW) Kelowna International Airport / Canadá"
+  },
+  {
+    "city": "Coventry",
+    "iata": "CVT",
+    "airport": "Coventry Airport",
+    "country": "Reino Unido",
+    "general": "Coventry (CVT) Coventry Airport / Reino Unido"
+  },
+  {
+    "city": "Belém",
+    "iata": "BEL",
+    "airport": "Aeroporto Internacional de Belém/Val de Cans–Júlio Cezar Ribeiro",
+    "country": "Brasil",
+    "general": "Belém (BEL) Aeroporto Internacional de Belém/Val de Cans–Júlio Cezar Ribeiro / Brasil"
+  },
+  {
+    "city": "Augsburg",
+    "iata": "AGB",
+    "airport": "Augsburg Airport",
+    "country": "Alemanha",
+    "general": "Augsburg (AGB) Augsburg Airport / Alemanha"
+  },
+  {
+    "city": "Belo Horizonte",
+    "iata": "PLU",
+    "airport": "Aeroporto da Pampulha",
+    "country": "Brasil",
+    "general": "Belo Horizonte (PLU) Aeroporto da Pampulha / Brasil"
+  },
+  {
+    "city": "Menorca Island",
+    "iata": "MAH",
+    "airport": "Menorca Airport",
+    "country": "Espanha",
+    "general": "Menorca Island (MAH) Menorca Airport / Espanha"
+  },
+  {
+    "city": "Kidlington",
+    "iata": "OXF",
+    "airport": "Oxford (Kidlington) Airport",
+    "country": "Reino Unido",
+    "general": "Kidlington (OXF) Oxford (Kidlington) Airport / Reino Unido"
+  },
+  {
+    "city": "Burgos",
+    "iata": "RGS",
+    "airport": "Burgos Airport",
+    "country": "Espanha",
+    "general": "Burgos (RGS) Burgos Airport / Espanha"
+  },
+  {
+    "city": "Tromsø",
+    "iata": "TOS",
+    "airport": "Tromsø Airport",
+    "country": "Noruega",
+    "general": "Tromsø (TOS) Tromsø Airport / Noruega"
+  },
+  {
+    "city": "Den Helder",
+    "iata": "DHR",
+    "airport": "De Kooy Airfield",
+    "country": "Países Baixos",
+    "general": "Den Helder (DHR) De Kooy Airfield / Países Baixos"
+  },
+  {
+    "city": "",
+    "iata": "LUZ",
+    "airport": "Lublin",
+    "country": "Polónia",
+    "general": "(LUZ) Lublin / Polónia"
+  },
+  {
+    "city": "Rio De Janeiro",
+    "iata": "RRJ",
+    "airport": "Aeroporto de Jacarepagua",
+    "country": "Brasil",
+    "general": "Rio De Janeiro (RRJ) Aeroporto de Jacarepagua / Brasil"
+  },
+  {
+    "city": "Liège",
+    "iata": "LGG",
+    "airport": "Liège Airport",
+    "country": "Bélgica",
+    "general": "Liège (LGG) Liège Airport / Bélgica"
+  },
+  {
+    "city": "Tallinn",
+    "iata": "TLL",
+    "airport": "Lennart Meri Tallinn Airport",
+    "country": "Estónia",
+    "general": "Tallinn (TLL) Lennart Meri Tallinn Airport / Estónia"
+  },
+  {
+    "city": "Dzaoudzi",
+    "iata": "DZA",
+    "airport": "Dzaoudzi Pamandzi International Airport",
+    "country": "Mayotte",
+    "general": "Dzaoudzi (DZA) Dzaoudzi Pamandzi International Airport / Mayotte"
+  },
+  {
+    "city": "Daytona Beach",
+    "iata": "DAB",
+    "airport": "Daytona Beach International Airport",
+    "country": "Estados Unidos",
+    "general": "Daytona Beach (DAB) Daytona Beach International Airport / Estados Unidos"
+  },
+  {
+    "city": "Foz Do Iguaçu",
+    "iata": "IGU",
+    "airport": "Aeroporto Internacional de Foz do Iguaçu / Cataratas",
+    "country": "Brasil",
+    "general": "Foz Do Iguaçu (IGU) Aeroporto Internacional de Foz do Iguaçu / Cataratas / Brasil"
+  },
+  {
+    "city": "Cali",
+    "iata": "CLO",
+    "airport": "Alfonso Bonilla Aragon International Airport",
+    "country": "Colômbia",
+    "general": "Cali (CLO) Alfonso Bonilla Aragon International Airport / Colômbia"
+  },
+  {
+    "city": "Sta Cruz de la Palma, La Palma Island",
+    "iata": "SPC",
+    "airport": "La Palma Airport",
+    "country": "Espanha",
+    "general": "Sta Cruz de la Palma, La Palma Island (SPC) La Palma Airport / Espanha"
+  },
+  {
+    "city": "Paderborn",
+    "iata": "PAD",
+    "airport": "Paderborn Lippstadt Airport",
+    "country": "Alemanha",
+    "general": "Paderborn (PAD) Paderborn Lippstadt Airport / Alemanha"
+  },
+  {
+    "city": "Clermont-Ferrand/Auvergne",
+    "iata": "CFE",
+    "airport": "Clermont-Ferrand Auvergne Airport",
+    "country": "França",
+    "general": "Clermont-Ferrand/Auvergne (CFE) Clermont-Ferrand Auvergne Airport / França"
+  },
+  {
+    "city": "Tours/Val de Loire (Loire Valley)",
+    "iata": "TUF",
+    "airport": "Tours-Val-de-Loire Airport",
+    "country": "França",
+    "general": "Tours/Val de Loire (Loire Valley) (TUF) Tours-Val-de-Loire Airport / França"
+  },
+  {
+    "city": "Mönchengladbach",
+    "iata": "MGL",
+    "airport": "Mönchengladbach Airport",
+    "country": "Alemanha",
+    "general": "Mönchengladbach (MGL) Mönchengladbach Airport / Alemanha"
+  },
+  {
+    "city": "São José Do Rio Preto",
+    "iata": "SJP",
+    "airport": "Aeroporto de São José do Rio Preto",
+    "country": "Brasil",
+    "general": "São José Do Rio Preto (SJP) Aeroporto de São José do Rio Preto / Brasil"
+  },
+  {
+    "city": "Cannes/Mandelieu",
+    "iata": "CEQ",
+    "airport": "Cannes-Mandelieu Airport",
+    "country": "França",
+    "general": "Cannes/Mandelieu (CEQ) Cannes-Mandelieu Airport / França"
+  },
+  {
+    "city": "Colmar/Houssen",
+    "iata": "CMR",
+    "airport": "Colmar-Houssen Airport",
+    "country": "França",
+    "general": "Colmar/Houssen (CMR) Colmar-Houssen Airport / França"
+  },
+  {
+    "city": "Tehran",
+    "iata": "THR",
+    "airport": "Mehrabad International Airport",
+    "country": "Irão",
+    "general": "Tehran (THR) Mehrabad International Airport / Irão"
+  },
+  {
+    "city": "Santander",
+    "iata": "SDR",
+    "airport": "Santander Airport",
+    "country": "Espanha",
+    "general": "Santander (SDR) Santander Airport / Espanha"
+  },
+  {
+    "city": "Staverton",
+    "iata": "GLO",
+    "airport": "Gloucestershire Airport",
+    "country": "Reino Unido",
+    "general": "Staverton (GLO) Gloucestershire Airport / Reino Unido"
+  },
+  {
+    "city": "Belgrade",
+    "iata": "BEG",
+    "airport": "Belgrade Nikola Tesla Airport",
+    "country": "Serbia",
+    "general": "Belgrade (BEG) Belgrade Nikola Tesla Airport / Serbia"
+  },
+  {
+    "city": "Hondarribia",
+    "iata": "EAS",
+    "airport": "San Sebastian Airport",
+    "country": "Espanha",
+    "general": "Hondarribia (EAS) San Sebastian Airport / Espanha"
+  },
+  {
+    "city": "Enschede",
+    "iata": "ENS",
+    "airport": "Enschede Airport Twente",
+    "country": "Países Baixos",
+    "general": "Enschede (ENS) Enschede Airport Twente / Países Baixos"
+  },
+  {
+    "city": "Calgary",
+    "iata": "YYC",
+    "airport": "Aeroporto Internacional de Calgary",
+    "country": "Canadá",
+    "general": "Calgary (YYC) Aeroporto Internacional de Calgary / Canadá"
+  },
+  {
+    "city": "Paro",
+    "iata": "PBH",
+    "airport": "Paro Airport",
+    "country": "Butão",
+    "general": "Paro (PBH) Paro Airport / Butão"
+  },
+  {
+    "city": "Vancouver",
+    "iata": "YVR",
+    "airport": "Vancouver International Airport",
+    "country": "Canadá",
+    "general": "Vancouver (YVR) Vancouver International Airport / Canadá"
+  },
+  {
+    "city": "Praia da Vitória",
+    "iata": "TER",
+    "airport": "Base Aérea das Lajes",
+    "country": "Portugal",
+    "general": "Praia da Vitória (TER) Base Aérea das Lajes / Portugal"
+  },
+  {
+    "city": "",
+    "iata": "NTR",
+    "airport": "Del Norte International Airport",
+    "country": "México",
+    "general": "(NTR) Del Norte International Airport / México"
+  },
+  {
+    "city": "Luxor",
+    "iata": "LXR",
+    "airport": "Luxor International Airport",
+    "country": "Egito",
+    "general": "Luxor (LXR) Luxor International Airport / Egito"
+  },
+  {
+    "city": "Sibiu",
+    "iata": "SBZ",
+    "airport": "Sibiu International Airport",
+    "country": "Roménia",
+    "general": "Sibiu (SBZ) Sibiu International Airport / Roménia"
+  },
+  {
+    "city": "Cochabamba",
+    "iata": "CBB",
+    "airport": "Jorge Wilsterman International Airport",
+    "country": "Bolívia",
+    "general": "Cochabamba (CBB) Jorge Wilsterman International Airport / Bolívia"
+  },
+  {
+    "city": "San Carlos de Bariloche",
+    "iata": "BRC",
+    "airport": "San Carlos De Bariloche Airport",
+    "country": "Argentina",
+    "general": "San Carlos de Bariloche (BRC) San Carlos De Bariloche Airport / Argentina"
+  },
+  {
+    "city": "Moncton",
+    "iata": "YQM",
+    "airport": "Greater Moncton Roméo LeBlanc International Airport",
+    "country": "Canadá",
+    "general": "Moncton (YQM) Greater Moncton Roméo LeBlanc International Airport / Canadá"
+  },
+  {
+    "city": "Renton",
+    "iata": "RNT",
+    "airport": "Renton Municipal Airport",
+    "country": "Estados Unidos",
+    "general": "Renton (RNT) Renton Municipal Airport / Estados Unidos"
+  },
+  {
+    "city": "Perpignan/Rivesaltes",
+    "iata": "PGF",
+    "airport": "Perpignan-Rivesaltes (Llabanère) Airport",
+    "country": "França",
+    "general": "Perpignan/Rivesaltes (PGF) Perpignan-Rivesaltes (Llabanère) Airport / França"
+  },
+  {
+    "city": "Chambéry/Aix-les-Bains",
+    "iata": "CMF",
+    "airport": "Chambéry-Aix les Bains",
+    "country": "França",
+    "general": "Chambéry/Aix-les-Bains (CMF) Chambéry-Aix les Bains / França"
+  },
+  {
+    "city": "Kuala Lumpur",
+    "iata": "KUL",
+    "airport": "Aeroporto Internacional de Kuala Lumpur",
+    "country": "Malásia",
+    "general": "Kuala Lumpur (KUL) Aeroporto Internacional de Kuala Lumpur / Malásia"
+  },
+  {
+    "city": "Stavanger",
+    "iata": "SVG",
+    "airport": "Stavanger Airport, Sola",
+    "country": "Noruega",
+    "general": "Stavanger (SVG) Stavanger Airport, Sola / Noruega"
+  },
+  {
+    "city": "Castletown",
+    "iata": "IOM",
+    "airport": "Isle of Man Airport",
+    "country": "Isle of Man",
+    "general": "Castletown (IOM) Isle of Man Airport / Isle of Man"
+  },
+  {
+    "city": "Dubrovnik",
+    "iata": "DBV",
+    "airport": "Aeroporto de Dubrovnique",
+    "country": "Croácia",
+    "general": "Dubrovnik (DBV) Aeroporto de Dubrovnique / Croácia"
+  },
+  {
+    "city": "Bergen Op Zoom",
+    "iata": "WOE",
+    "airport": "Woensdrecht Air Base",
+    "country": "Países Baixos",
+    "general": "Bergen Op Zoom (WOE) Woensdrecht Air Base / Países Baixos"
+  },
+  {
+    "city": "Billund",
+    "iata": "BLL",
+    "airport": "Billund Airport",
+    "country": "Dinamarca",
+    "general": "Billund (BLL) Billund Airport / Dinamarca"
+  },
+  {
+    "city": "Mar del Plata",
+    "iata": "MDQ",
+    "airport": "Ástor Piazzola International Airport",
+    "country": "Argentina",
+    "general": "Mar del Plata (MDQ) Ástor Piazzola International Airport / Argentina"
+  },
+  {
+    "city": "Ribeirão Preto",
+    "iata": "RAO",
+    "airport": "Aeroporto Estadual Dr. Leite Lopes",
+    "country": "Brasil",
+    "general": "Ribeirão Preto (RAO) Aeroporto Estadual Dr. Leite Lopes / Brasil"
+  },
+  {
+    "city": "Blackpool",
+    "iata": "BLK",
+    "airport": "Aeroporto Internacional de Blackpool",
+    "country": "Reino Unido",
+    "general": "Blackpool (BLK) Aeroporto Internacional de Blackpool / Reino Unido"
+  },
+  {
+    "city": "Grand Forks",
+    "iata": "GFK",
+    "airport": "Grand Forks International Airport",
+    "country": "Estados Unidos",
+    "general": "Grand Forks (GFK) Grand Forks International Airport / Estados Unidos"
+  },
+  {
+    "city": "Verona",
+    "iata": "VRN",
+    "airport": "Verona Villafranca Airport",
+    "country": "Itália",
+    "general": "Verona (VRN) Verona Villafranca Airport / Itália"
+  },
+  {
+    "city": "Monterrey",
+    "iata": "MTY",
+    "airport": "General Mariano Escobedo International Airport",
+    "country": "México",
+    "general": "Monterrey (MTY) General Mariano Escobedo International Airport / México"
+  },
+  {
+    "city": "Saint Peter Port",
+    "iata": "GCI",
+    "airport": "Guernsey Airport",
+    "country": "Guernsey",
+    "general": "Saint Peter Port (GCI) Guernsey Airport / Guernsey"
+  },
+  {
+    "city": "Cluj-Napoca",
+    "iata": "CLJ",
+    "airport": "Cluj-Napoca International Airport",
+    "country": "Roménia",
+    "general": "Cluj-Napoca (CLJ) Cluj-Napoca International Airport / Roménia"
+  },
+  {
+    "city": "Beauvais/Tillé",
+    "iata": "BVA",
+    "airport": "Paris Beauvais Tillé Airport",
+    "country": "França",
+    "general": "Beauvais/Tillé (BVA) Paris Beauvais Tillé Airport / França"
+  },
+  {
+    "city": "Aberdeen",
+    "iata": "ABZ",
+    "airport": "Aberdeen Dyce Airport",
+    "country": "Reino Unido",
+    "general": "Aberdeen (ABZ) Aberdeen Dyce Airport / Reino Unido"
+  },
+  {
+    "city": "Doha",
+    "iata": "DOH",
+    "airport": "Aeroporto Internacional de Hamad",
+    "country": "Catar",
+    "general": "Doha (DOH) Aeroporto Internacional de Hamad / Catar"
+  },
+  {
+    "city": "Trinidad",
+    "iata": "TDD",
+    "airport": "Teniente Av. Jorge Henrich Arauz Airport",
+    "country": "Bolívia",
+    "general": "Trinidad (TDD) Teniente Av. Jorge Henrich Arauz Airport / Bolívia"
+  },
+  {
+    "city": "Maastricht",
+    "iata": "MST",
+    "airport": "Aeroporto Maastricht Aachen",
+    "country": "Países Baixos",
+    "general": "Maastricht (MST) Aeroporto Maastricht Aachen / Países Baixos"
+  },
+  {
+    "city": "Jundiaí",
+    "iata": "QDV",
+    "airport": "Comte. Rolim Adolfo Amaro–Jundiaí State Airport",
+    "country": "Brasil",
+    "general": "Jundiaí (QDV) Comte. Rolim Adolfo Amaro–Jundiaí State Airport / Brasil"
+  },
+  {
+    "city": "Pereira",
+    "iata": "PEI",
+    "airport": "Matecaña International Airport",
+    "country": "Colômbia",
+    "general": "Pereira (PEI) Matecaña International Airport / Colômbia"
+  },
+  {
+    "city": "Glasgow",
+    "iata": "PIK",
+    "airport": "Glasgow Prestwick Airport",
+    "country": "Reino Unido",
+    "general": "Glasgow (PIK) Glasgow Prestwick Airport / Reino Unido"
+  },
+  {
+    "city": "Rovaniemi",
+    "iata": "RVN",
+    "airport": "Rovaniemi Airport",
+    "country": "Finlândia",
+    "general": "Rovaniemi (RVN) Rovaniemi Airport / Finlândia"
+  },
+  {
+    "city": "Southampton",
+    "iata": "SOU",
+    "airport": "Southampton Airport",
+    "country": "Reino Unido",
+    "general": "Southampton (SOU) Southampton Airport / Reino Unido"
+  },
+  {
+    "city": "San Javier",
+    "iata": "MJV",
+    "airport": "San Javier Airport",
+    "country": "Espanha",
+    "general": "San Javier (MJV) San Javier Airport / Espanha"
+  },
+  {
+    "city": "Vannes/Meucon",
+    "iata": "VNE",
+    "airport": "Vannes-Meucon Airport",
+    "country": "França",
+    "general": "Vannes/Meucon (VNE) Vannes-Meucon Airport / França"
+  },
+  {
+    "city": "Klagenfurt am Wörthersee",
+    "iata": "KLU",
+    "airport": "Klagenfurt Airport",
+    "country": "Áustria",
+    "general": "Klagenfurt am Wörthersee (KLU) Klagenfurt Airport / Áustria"
+  },
+  {
+    "city": "Annecy/Meythet",
+    "iata": "NCY",
+    "airport": "Annecy-Meythet",
+    "country": "França",
+    "general": "Annecy/Meythet (NCY) Annecy-Meythet / França"
+  },
+  {
+    "city": "Graz",
+    "iata": "GRZ",
+    "airport": "Aeroporto de Graz",
+    "country": "Áustria",
+    "general": "Graz (GRZ) Aeroporto de Graz / Áustria"
+  },
+  {
+    "city": "Acapulco",
+    "iata": "ACA",
+    "airport": "General Juan N Alvarez International Airport",
+    "country": "México",
+    "general": "Acapulco (ACA) General Juan N Alvarez International Airport / México"
+  },
+  {
+    "city": "Adana",
+    "iata": "ADA",
+    "airport": "Adana Airport",
+    "country": "Turquia",
+    "general": "Adana (ADA) Adana Airport / Turquia"
+  },
+  {
+    "city": "Abbotsford",
+    "iata": "YXX",
+    "airport": "Abbotsford Airport",
+    "country": "Canadá",
+    "general": "Abbotsford (YXX) Abbotsford Airport / Canadá"
+  },
+  {
+    "city": "Gothenburg",
+    "iata": "GOT",
+    "airport": "Gothenburg-Landvetter Airport",
+    "country": "Suécia",
+    "general": "Gothenburg (GOT) Gothenburg-Landvetter Airport / Suécia"
+  },
+  {
+    "city": "Ushuahia",
+    "iata": "USH",
+    "airport": "Malvinas Argentinas Airport",
+    "country": "Argentina",
+    "general": "Ushuahia (USH) Malvinas Argentinas Airport / Argentina"
+  },
+  {
+    "city": "Redhill",
+    "iata": "KRH",
+    "airport": "Redhill Aerodrome",
+    "country": "Reino Unido",
+    "general": "Redhill (KRH) Redhill Aerodrome / Reino Unido"
+  },
+  {
+    "city": "Leeuwarden",
+    "iata": "LWR",
+    "airport": "Leeuwarden Air Base",
+    "country": "Países Baixos",
+    "general": "Leeuwarden (LWR) Leeuwarden Air Base / Países Baixos"
+  },
+  {
+    "city": "Porto Seguro",
+    "iata": "BPS",
+    "airport": "Porto Seguro Airport",
+    "country": "Brasil",
+    "general": "Porto Seguro (BPS) Porto Seguro Airport / Brasil"
+  },
+  {
+    "city": "Copenhagen",
+    "iata": "RKE",
+    "airport": "Copenhagen Roskilde Airport",
+    "country": "Dinamarca",
+    "general": "Copenhagen (RKE) Copenhagen Roskilde Airport / Dinamarca"
+  },
+  {
+    "city": "Mendoza",
+    "iata": "MDZ",
+    "airport": "Aeroporto Internacional Gobernador Francisco Gabrielli",
+    "country": "Argentina",
+    "general": "Mendoza (MDZ) Aeroporto Internacional Gobernador Francisco Gabrielli / Argentina"
+  },
+  {
+    "city": "La Rochelle/Île de Ré",
+    "iata": "LRH",
+    "airport": "La Rochelle-Île de Ré Airport",
+    "country": "França",
+    "general": "La Rochelle/Île de Ré (LRH) La Rochelle-Île de Ré Airport / França"
+  },
+  {
+    "city": "Bandar Seri Begawan",
+    "iata": "BWN",
+    "airport": "Brunei International Airport",
+    "country": "Brunei",
+    "general": "Bandar Seri Begawan (BWN) Brunei International Airport / Brunei"
+  },
+  {
+    "city": "Wellington",
+    "iata": "WLG",
+    "airport": "Wellington International Airport",
+    "country": "Nova Zelândia",
+    "general": "Wellington (WLG) Wellington International Airport / Nova Zelândia"
+  },
+  {
+    "city": "Olbia (SS)",
+    "iata": "OLB",
+    "airport": "Olbia Costa Smeralda Airport",
+    "country": "Itália",
+    "general": "Olbia (SS) (OLB) Olbia Costa Smeralda Airport / Itália"
+  },
+  {
+    "city": "Orléans",
+    "iata": "ORE",
+    "airport": "Orléans – Saint-Denis-de-l'Hôtel Airport",
+    "country": "França",
+    "general": "Orléans (ORE) Orléans – Saint-Denis-de-l'Hôtel Airport / França"
+  },
+  {
+    "city": "Trujillo",
+    "iata": "TRU",
+    "airport": "Capitan FAP Carlos Martinez De Pinillos International Airport",
+    "country": "Peru",
+    "general": "Trujillo (TRU) Capitan FAP Carlos Martinez De Pinillos International Airport / Peru"
+  },
+  {
+    "city": "Bonn",
+    "iata": "BNJ",
+    "airport": "Bonn-Hangelar Airport",
+    "country": "Alemanha",
+    "general": "Bonn (BNJ) Bonn-Hangelar Airport / Alemanha"
+  },
+  {
+    "city": "Brighton",
+    "iata": "ESH",
+    "airport": "Brighton City Airport",
+    "country": "Reino Unido",
+    "general": "Brighton (ESH) Brighton City Airport / Reino Unido"
+  },
+  {
+    "city": "Joinville",
+    "iata": "JOI",
+    "airport": "Lauro Carneiro de Loyola Airport",
+    "country": "Brasil",
+    "general": "Joinville (JOI) Lauro Carneiro de Loyola Airport / Brasil"
+  },
+  {
+    "city": "Le Touquet-Paris-Plage",
+    "iata": "LTQ",
+    "airport": "Le Touquet-Côte d'Opale Airport",
+    "country": "França",
+    "general": "Le Touquet-Paris-Plage (LTQ) Le Touquet-Côte d'Opale Airport / França"
+  },
+  {
+    "city": "Skiathos",
+    "iata": "JSI",
+    "airport": "Skiathos Island National Airport",
+    "country": "Grécia",
+    "general": "Skiathos (JSI) Skiathos Island National Airport / Grécia"
+  },
+  {
+    "city": "Cardiff",
+    "iata": "CWL",
+    "airport": "Cardiff International Airport",
+    "country": "Reino Unido",
+    "general": "Cardiff (CWL) Cardiff International Airport / Reino Unido"
+  },
+  {
+    "city": "Linz",
+    "iata": "LNZ",
+    "airport": "Linz Hörsching Airport",
+    "country": "Áustria",
+    "general": "Linz (LNZ) Linz Hörsching Airport / Áustria"
+  },
+  {
+    "city": "Muscat",
+    "iata": "MCT",
+    "airport": "Aeroporto Internacional de Mascate",
+    "country": "Omã",
+    "general": "Muscat (MCT) Aeroporto Internacional de Mascate / Omã"
+  },
+  {
+    "city": "Arequipa",
+    "iata": "AQP",
+    "airport": "Rodríguez Ballón International Airport",
+    "country": "Peru",
+    "general": "Arequipa (AQP) Rodríguez Ballón International Airport / Peru"
+  },
+  {
+    "city": "Bolzano",
+    "iata": "BZO",
+    "airport": "Bolzano Airport",
+    "country": "Itália",
+    "general": "Bolzano (BZO) Bolzano Airport / Itália"
+  },
+  {
+    "city": "Southend",
+    "iata": "SEN",
+    "airport": "Southend Airport",
+    "country": "Reino Unido",
+    "general": "Southend (SEN) Southend Airport / Reino Unido"
+  },
+  {
+    "city": "Hawarden",
+    "iata": "CEG",
+    "airport": "Hawarden Airport",
+    "country": "Reino Unido",
+    "general": "Hawarden (CEG) Hawarden Airport / Reino Unido"
+  },
+  {
+    "city": "Dundee",
+    "iata": "DND",
+    "airport": "Dundee Airport",
+    "country": "Reino Unido",
+    "general": "Dundee (DND) Dundee Airport / Reino Unido"
+  },
+  {
+    "city": "Horta",
+    "iata": "HOR",
+    "airport": "Aeroporto Internacional da Horta",
+    "country": "Portugal",
+    "general": "Horta (HOR) Aeroporto Internacional da Horta / Portugal"
+  },
+  {
+    "city": "Winnipeg",
+    "iata": "YWG",
+    "airport": "Winnipeg / James Armstrong Richardson International Airport",
+    "country": "Canadá",
+    "general": "Winnipeg (YWG) Winnipeg / James Armstrong Richardson International Airport / Canadá"
+  },
+  {
+    "city": "Trondheim",
+    "iata": "TRD",
+    "airport": "Trondheim Airport, Værnes",
+    "country": "Noruega",
+    "general": "Trondheim (TRD) Trondheim Airport, Værnes / Noruega"
+  },
+  {
+    "city": "Radom",
+    "iata": "RDO",
+    "airport": "Warsaw Radom Airport",
+    "country": "Polónia",
+    "general": "Radom (RDO) Warsaw Radom Airport / Polónia"
+  },
+  {
+    "city": "Rome",
+    "iata": "CIA",
+    "airport": "Ciampino–G. B. Pastine International Airport",
+    "country": "Itália",
+    "general": "Rome (CIA) Ciampino–G. B. Pastine International Airport / Itália"
+  },
+  {
+    "city": "Parma",
+    "iata": "PMF",
+    "airport": "Parma Airport",
+    "country": "Itália",
+    "general": "Parma (PMF) Parma Airport / Itália"
+  },
+  {
+    "city": "Denpasar-Bali Island",
+    "iata": "DPS",
+    "airport": "Ngurah Rai (Bali) International Airport",
+    "country": "Indonésia",
+    "general": "Denpasar-Bali Island (DPS) Ngurah Rai (Bali) International Airport / Indonésia"
+  }
+]
+
+
+ 
